@@ -1,0 +1,90 @@
+%% Basierend auf einer TeXnicCenter-Vorlage von Tino Weinkauf.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% HEADER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[ paper=a4,
+    twoside=false,
+    fontsize=12pt,
+    pagesize=auto,
+    parskip=half,
+    % Linie unterhalb der Kopfzeile
+    headsepline=true,
+    % Kapitelnummern (in Kopfzeile), Bildunterschrift und Tabellenüberschriften erhalten keinen abschließenden Punkt. Alternative: enddot
+    numbers=noenddot,
+    % Markiert zu lange und zu kurze Zeilen. Die PDF-Datei enthält außerdem keine klickbaren Links mehr.
+    draft=false]{scrartcl}
+% Alternative Optionen:
+%	Papiergröße: a4paper / a5paper / b5paper / letterpaper / legalpaper / executivepaper
+% Duplex: oneside / twoside
+% Grundlegende Fontgrößen: 10pt / 11pt / 12pt
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman,english]{babel}
+\usepackage{amsmath}
+\usepackage{xifthen}
+\usepackage[pdftex]{graphicx}
+\usepackage{units}
+\usepackage{setspace}
+\usepackage[font=small,labelfont=bf,labelsep=endash,format=plain]{caption}
+\usepackage[natbibapa]{apacite}
+\usepackage{scrlayer-scrpage}
+\usepackage{array,dcolumn}
+\usepackage[pdfpagelabels]{hyperref}
+\usepackage{microtype}
+%\usepackage[babel, german=guillemets]{csquotes} %<<>>
+\usepackage[babel, german=quotes]{csquotes} %,,''
+\usepackage{booktabs} % Allows \toprule, \midrule, \bottomrule in tables
+\usepackage{float}
+\usepackage{csvsimple}
+\usepackage{subcaption}
+\usepackage{pdfpages}
+\usepackage{gensymb}
+
+
+\newcommand{\cImage}[2][0.5]{
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=#1\textwidth]{#2}
+	\end{figure}
+}
+\RedeclareSectionCommand[style=section,indent=0pt,font=\usekomafont{partnumber}]{part}
+\renewcommand*{\partformat}{\thepart\enskip}
+
+  \newcaptionname{ngerman}\equationname{Formel}%
+  \newcaptionname{ngerman}\listequationname{Formelverzeichnis}%
+
+% Zentriert auf linken Seiten die aktuelle Kapitelüberschrift,
+% auf rechten Seiten die Überschrift des aktuellen Abschnitts ausgeben:
+
+% Zentriert die Seitenzahl ausgeben (auch beim Seitenstil "scrplain"):
+\cfoot*{\pagemark}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% DOKUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+
+\selectlanguage{ngerman}
+	\onehalfspacing
+	\addtokomafont{sectioning}{\rmfamily}
+	\numberwithin{equation}{section}
+	\addtokomafont{caption}{\small\linespread{1}\selectfont}
+
+
+\ihead{Andy Fischer / Pascal Steck / Theo Zwahlen}
+\chead{}
+\ohead{EAT Labor SM}
+
+
+\input{deckblatt.tex}
+\input{Einleitung.tex}
+\input{Versuch.tex}
+\input{Schlussteil.tex}
+
+%Der Bericht umfasst neben einer Zusammenfassung mindestens den Schaltungsaufbau, die Messresultate sowie „Gelerntes und Kommentare“. 
+
+
+\end{document}
