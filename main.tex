@@ -41,6 +41,17 @@
 \usepackage{pdfpages}
 \usepackage{gensymb}
 
+%Andy's includes:
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % linksbündig mit Breitenangabe
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}} % zentriert mit Breitenangabe
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}} % rechtsbündig mit Breitenangabe
+\usepackage{colortbl}
+
+
+
+
+% end of Andy's includes
 
 \newcommand{\cImage}[2][0.5]{
 	\begin{figure}[h!]
@@ -81,7 +92,9 @@
 
 \input{deckblatt.tex}
 \input{Einleitung.tex}
+\newpage
 \input{Versuch.tex}
+\newpage
 \input{Schlussteil.tex}
 
 %Der Bericht umfasst neben einer Zusammenfassung mindestens den Schaltungsaufbau, die Messresultate sowie „Gelerntes und Kommentare“. 
