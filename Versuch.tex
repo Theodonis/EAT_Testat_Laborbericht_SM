@@ -1,13 +1,46 @@
 
 \section*{Versuche}
 
+
+
+
+\subsection*{Laboreinrichtung}
+
+
 hier Foto von Versuchsaufbau allgemein, mit den drei Maschinen
 
-\subsection*{Materialliste}
+\subsubsection*{Maschinensatz}
 
 
 
-\begin{center}
+
+
+
+
+
+\begin{tabular}{|L{5cm}|l|c|c|c|c|}
+ \hline
+ \rowcolor[gray]{.8} \textbf{$Bez.$} & \textbf{$P_{Nenn}$} & \textbf{$p$} & \textbf{$f$} & \textbf{$Spannung$ $\Delta$ / $Y$} & \textbf{$n_{Nenn}$}  \\
+ \hline
+Synchronmaschine&8.7 kW &2 &50 Hz&220/380 V&1500 $\frac{1}{min}$\\
+\hline
+Gleichstrommaschine&8.5 kW & - & - & 220 VDC& 1500 $\frac{1}{min}$\\
+\hline
+Schleifring ASM &10 kW &2&50 Hz& 230/400 V& 1420 $\frac{1}{min}$\\
+\hline
+
+\end{tabular}
+
+
+
+
+
+
+\subsubsection*{Messeinrichtungen}
+
+
+
+
 \begin{tabular}{|L{0.8 \textwidth}|l|}
  \hline
  \rowcolor[gray]{.8} \textbf{Bezeichnung} & \textbf{Nr}  \\
@@ -22,15 +55,99 @@ Oszilloskop  & xxx  \\
 \hline
 Multimeter  & xxx  \\
 \hline
+Drehzahl-und Drehmomentmessung  & -  \\
+\hline
+Polradwinkel-Messgerät  & -  \\
+\hline
+Dreiphasiges Leistungsmessgerät PM 3000  & -  \\
+\hline
+Wattmeter   & -  \\
+\hline
 \end{tabular}
-\end{center}
 
 
-\subsection*{Versuch 1}
+\subsubsection*{Speisungen und Belastungen}
 
-Der erste Versuch dient dazu die verschiedenen Einheiten in Betrieb zu nehmen und vorzubereiten.
-\subsubsection*{Schaltungsaufbau}
+\begin{tabular}{|L{0.3 \textwidth}|l|}
+ \hline
+ \rowcolor[gray]{.8} \textbf{Bezeichnung} & \textbf{Anwendungszweck}  \\
+ \hline
+ Chopper  & zur Erregung der SM  \\
+\hline
+Kastenwiderstand & Belastung ohmsch  \\
+\hline
+ Variac Einrichtung & Belastung reaktiv  \\
+\hline
+
+\end{tabular}
 
 
 
-\subsubsection*{Messresultate}
+\newpage
+\subsection*{Inbetriebsetzung}
+Als erstes sollen die Gleichstrommaschine sowie die ASM in Betrieb genommen werden und für die folgenden Messungen eingestellt werden.
+\subsubsection*{Gleichstrommaschine}
+Die GM wird so eingestellt, dass sie beim Einschalten auf eine Drehzahl von 1500 $\frac{1}{min}$ hochfährt. Dies entspricht gerade der Nenndrehzahl der SM.
+
+\subsubsection*{ASM}
+Die Asynchronmaschine wird im späteren Verlauf als Dämpfung für den SM genutzt. 
+Da es sich um eine Schleifringläufer ASM handelt, kann über den Rotorkreis ein Widerstand zugeschalten werden. Dieser begrenzt den Anlaufstrom. Nach dem Hochfahren werden die Schleifringe kurzgeschlossen und die ASM kann als Kurzschlussläufer betrachtet werden.
+
+
+\newpage
+
+
+
+\subsection*{Maschinenkennwerte}
+In diesem Abschnitt werden die charakteristischen Kennwerte der SM ermittelt.
+
+\subsubsection*{Leerlaufkennlinie}
+Mit der Leerlaufkennlinie wird der Zusammenhang der induzierten Phasenspannung (Effektivwert) in Abhängigkeit des Erregerstroms dargestellt. Für diesen Versuch muss die SM mit der Gleichstrommaschine bei Nenndrehzahl gehalten werden (1500 $\frac{1}{min}$).
+Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\Delta U$ beträgt 0 und die Polradspannung (induzierte Spannung) entspricht der Phasenspannung $U_1$. 
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
+         scale = 0.45]{leerlauf}
+         \caption[]{Leerlaufbetrieb mit vereinfachtem einphasigen Ersatzschaltbild\footnotemark}
+    \label{fig:abb1}
+\end{figure}
+
+\footnotetext{Aus dem Skript 'Leistungselektronik und elektrische Antriebe' Kapitel 'Drehfeldmaschinen'}
+
+
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
+         scale = 0.6]{leerlauf_schema}
+    \caption{Schaltungsaufbau}
+    \label{fig:abb1}
+\end{figure}
+
+
+
+
+
+
+
+
+
+\newpage
+
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
+         width=0.80\textwidth]{versuch_Uph_I_err.pdf}
+    \caption{Phasenspannung in Abhängigkeit des Erregerstroms}
+    \label{fig:abb1}
+\end{figure}
+
+
+
+Der Grafik ist zu entnehmen, dass die Phasenspannung durch das Erhöhen des Erregerstroms linear zunimmt. 
+Die Kennlinie entspricht der Magnetisierungskennlinie der Synchronmaschine.
+\newpage
