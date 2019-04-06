@@ -4,9 +4,8 @@
 /Documentation/
 *.g_c
 *.g_x
-*.pdf
 *.cwGeneratedFileSetLog
 ProjectInfo.xml
-
+*.bak
 
 /Debug/
