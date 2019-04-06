@@ -1,5 +1,7 @@
-
+\begin{flushleft}
 \section*{Versuche}
+
+
 
 
 
@@ -103,13 +105,14 @@ In diesem Abschnitt werden die charakteristischen Kennwerte der SM ermittelt.
 
 \subsubsection*{Leerlaufkennlinie}
 Mit der Leerlaufkennlinie wird der Zusammenhang der induzierten Phasenspannung (Effektivwert) in Abhängigkeit des Erregerstroms dargestellt. Für diesen Versuch muss die SM mit der Gleichstrommaschine bei Nenndrehzahl gehalten werden (1500 $\frac{1}{min}$).
-Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\Delta U$ beträgt 0 und die Polradspannung (induzierte Spannung) entspricht der Phasenspannung $U_1$. 
+Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\Delta U$ beträgt 0 und die Polradspannung (induzierte Spannung) entspricht der Phasenspannung $U_1$. \\
+
 
 \begin{figure}[H]
     \centering
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
-         scale = 0.45]{leerlauf}
-         \caption[]{Leerlaufbetrieb mit vereinfachtem einphasigen Ersatzschaltbild\footnotemark}
+         scale = 0.7]{leerlauf}
+         \caption[]{Leerlaufbetrieb \footnotemark}
     \label{fig:abb1}
 \end{figure}
 
@@ -122,7 +125,7 @@ Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\D
     \centering
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          scale = 0.6]{leerlauf_schema}
-    \caption{Schaltungsaufbau}
+    \caption{Schaltungsaufbau im VZS}
     \label{fig:abb1}
 \end{figure}
 
@@ -149,5 +152,52 @@ Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\D
 
 
 Der Grafik ist zu entnehmen, dass die Phasenspannung durch das Erhöhen des Erregerstroms linear zunimmt. 
-Die Kennlinie entspricht der Magnetisierungskennlinie der Synchronmaschine.
+Die Kennlinie entspricht der Magnetisierungskennlinie der Synchronmaschine.\\
+
+
+\vspace{0.4cm}
+\textbf{Verwendete Messwerkzeuge}: Multimeter, Oszilloskop, Amperezange
+
 \newpage
+
+
+
+
+
+
+\subsubsection*{Kurzschlusskennlinie}
+
+Im Kurzschlussfall($U_1$ = 0V) fällt die induzierte Spannung $U_p$ über der Statorwicklung $\Delta U$ ab. Abhängig vom Erregerstrom verändert sich die induzierte Spannung und somit auch der Phasenstrom $I_1$.
+Mit der Kurzschlusskennlinie soll dieser Zusammenhang grafisch dargestellt werden.
+ 
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
+         scale = 0.6]{kurzschluss_schema}
+    \caption{Schaltungsaufbau im VZS}
+    \label{fig:abb1}
+\end{figure}
+
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
+         scale = 0.8]{zps_kurzschluss}
+    \caption{Zeigferdiagramm im VZS}
+    \label{fig:abb1}
+\end{figure}
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
+         width=0.80\textwidth]{versuch_I_ph_I_err.pdf}
+    \caption{Phasenstrom in Abhängigkeit des Erregerstroms}
+    \label{fig:abb1}
+\end{figure}
+
+Auch die Kurzschlusskennlinie verhält sich linear. Der Effektivwert des Phasenstroms nimmt proportional zum Erregerstrom zu. 
+
+
+\end{flushleft}

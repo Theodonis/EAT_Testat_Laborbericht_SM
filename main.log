@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.15)  6 APR 2019 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.15)  6 APR 2019 15:34
 entering extended mode
 **./main.tex
 (main.tex
@@ -594,6 +594,15 @@ LaTeX Warning: Label `fig:abb1' multiply defined.
 
 LaTeX Warning: Label `fig:abb1' multiply defined.
 
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -738,57 +747,83 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 95.
  [2] (Versuch.tex
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 88.
  [3]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 97.
+(babel)             in language  on input line 99.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 97.
+(babel)             in language  on input line 99.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 97.
+(babel)             in language  on input line 99.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 97.
+(babel)             in language  on input line 99.
  [4]
-<figures/leerlauf.png, id=36, 505.89pt x 225.84375pt>
+<figures/leerlauf.png, id=36, 163.3603pt x 167.12437pt>
 File: figures/leerlauf.png Graphic file (type png)
 <use figures/leerlauf.png>
-Package pdftex.def Info: figures/leerlauf.png  used on input line 111.
-(pdftex.def)             Requested size: 227.64839pt x 101.62874pt.
+Package pdftex.def Info: figures/leerlauf.png  used on input line 114.
+(pdftex.def)             Requested size: 114.35143pt x 116.98625pt.
 <figures/leerlauf_schema.png, id=40, 641.39626pt x 216.05719pt>
 File: figures/leerlauf_schema.png Graphic file (type png)
 <use figures/leerlauf_schema.png>
-Package pdftex.def Info: figures/leerlauf_schema.png  used on input line 124.
+Package pdftex.def Info: figures/leerlauf_schema.png  used on input line 127.
 (pdftex.def)             Requested size: 384.84071pt x 129.6353pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 140.
  [5 <./figures/leerlauf.png> <./figures/leerlauf_schema.png>]
 <figures/versuch_Uph_I_err.pdf, id=55, 487.87448pt x 283.36165pt>
 File: figures/versuch_Uph_I_err.pdf Graphic file (type pdf)
 <use figures/versuch_Uph_I_err.pdf>
-Package pdftex.def Info: figures/versuch_Uph_I_err.pdf  used on input line 144.
+Package pdftex.def Info: figures/versuch_Uph_I_err.pdf  used on input line 147.
 
 (pdftex.def)             Requested size: 358.50612pt x 208.23587pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 161.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 161.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 153.
+(babel)             in language  on input line 161.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 153.
- [6 <./figures/versuch_Uph_I_err.pdf>])
+(babel)             in language  on input line 161.
+ [6 <./figures/versuch_Uph_I_err.pdf>]
+<figures/kurzschluss_schema.png, id=71, 671.50874pt x 231.11343pt>
+File: figures/kurzschluss_schema.png Graphic file (type png)
+<use figures/kurzschluss_schema.png>
+Package pdftex.def Info: figures/kurzschluss_schema.png  used on input line 176
+.
+(pdftex.def)             Requested size: 402.90836pt x 138.66913pt.
+<figures/zps_kurzschluss.png, id=72, 91.09032pt x 165.61874pt>
+File: figures/zps_kurzschluss.png Graphic file (type png)
+<use figures/zps_kurzschluss.png>
+Package pdftex.def Info: figures/zps_kurzschluss.png  used on input line 186.
+(pdftex.def)             Requested size: 72.87233pt x 132.49516pt.
+<figures/versuch_I_ph_I_err.pdf, id=73, 491.5709pt x 284.59323pt>
+File: figures/versuch_I_ph_I_err.pdf Graphic file (type pdf)
+<use figures/versuch_I_ph_I_err.pdf>
+Package pdftex.def Info: figures/versuch_I_ph_I_err.pdf  used on input line 195
+.
+(pdftex.def)             Requested size: 358.50612pt x 207.55591pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 199.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 199.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 199.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 199.
+ [7 <./figures/kurzschluss_schema.png> <./figures/zps_kurzschluss.png>])
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
@@ -797,7 +832,8 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 97.
- [7] (Schlussteil.tex)
+ [8 <./figures/versuch_I_ph_I_err.pdf>]
+(Schlussteil.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 103.
@@ -807,10 +843,9 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 103.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 103.
- [8]
+ [9]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
-
-(main.aux)
+ (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -822,13 +857,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 103.
  ) 
 Here is how much of TeX's memory you used:
- 16460 strings out of 492973
- 300651 string characters out of 3135920
+ 16471 strings out of 492973
+ 301140 string characters out of 3135920
  581014 words of memory out of 3000000
- 20023 multiletter control sequences out of 15000+200000
- 12216 words of font info for 59 fonts, out of 3000000 for 9000
+ 20035 multiletter control sequences out of 15000+200000
+ 12020 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,20n,71p,9112b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,20n,71p,9112b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
@@ -838,9 +873,9 @@ nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pf
 b>
-Output written on main.pdf (8 pages, 198930 bytes).
+Output written on main.pdf (9 pages, 217535 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 15376 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 15391 words of extra memory for PDF output out of 17280 (max. 10000000)
 
