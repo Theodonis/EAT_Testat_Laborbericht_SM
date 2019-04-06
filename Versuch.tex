@@ -105,7 +105,7 @@ In diesem Abschnitt werden die charakteristischen Kennwerte der SM ermittelt.
 
 \subsubsection*{Leerlaufkennlinie}
 Mit der Leerlaufkennlinie wird der Zusammenhang der induzierten Phasenspannung (Effektivwert) in Abhängigkeit des Erregerstroms dargestellt. Für diesen Versuch muss die SM mit der Gleichstrommaschine bei Nenndrehzahl gehalten werden (1500 $\frac{1}{min}$).
-Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\Delta U$ beträgt 0 und die Polradspannung (induzierte Spannung) entspricht der Phasenspannung $U_1$. \\
+Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\Delta U$ beträgt 0 und die Polradspannung (induzierte Spannung) entspricht der Phasenspannung $U_1$ resp. $U_{ph}$. \\
 
 
 \begin{figure}[H]
@@ -156,7 +156,7 @@ Die Kennlinie entspricht der Magnetisierungskennlinie der Synchronmaschine.\\
 
 
 \vspace{0.4cm}
-\textbf{Verwendete Messwerkzeuge}: Multimeter, Oszilloskop, Amperezange
+\textbf{Verwendete Messwerkzeuge}: Multimeter ($I_{err}$), Oszilloskop und\\ Messtrennverstärker 1($U_{ph}$)
 
 \newpage
 
@@ -167,8 +167,10 @@ Die Kennlinie entspricht der Magnetisierungskennlinie der Synchronmaschine.\\
 
 \subsubsection*{Kurzschlusskennlinie}
 
-Im Kurzschlussfall($U_1$ = 0V) fällt die induzierte Spannung $U_p$ über der Statorwicklung $\Delta U$ ab. Abhängig vom Erregerstrom verändert sich die induzierte Spannung und somit auch der Phasenstrom $I_1$.
+Im Kurzschlussfall($U_1$ = 0V) fällt die induzierte Spannung $U_p$ über der Statorwicklung $\Delta U$ ab. Abhängig vom Erregerstrom verändert sich die induzierte Spannung und somit auch der Phasenstrom $I_1$ resp. $I_{ph}$.
 Mit der Kurzschlusskennlinie soll dieser Zusammenhang grafisch dargestellt werden.
+Auch in diesem Aufbau wird die SM mit der Gleichstrommaschine bei der Nenndrehzahl   betrieben.
+ 
  
 \begin{figure}[H]
     \centering
@@ -197,7 +199,45 @@ Mit der Kurzschlusskennlinie soll dieser Zusammenhang grafisch dargestellt werde
     \label{fig:abb1}
 \end{figure}
 
-Auch die Kurzschlusskennlinie verhält sich linear. Der Effektivwert des Phasenstroms nimmt proportional zum Erregerstrom zu. 
+Auch die Kurzschlusskennlinie verhält sich linear. Der Effektivwert des Phasenstroms nimmt proportional zum Erregerstrom zu.\\
+
+\vspace{0.4cm}
+\textbf{Verwendete Messwerkzeuge}: Multimeter ($I_{err}$), Oszilloskop und Amperezange($I_{ph}$) 
+
+
+
+
+\newpage
+\subsubsection*{Längsreaktanz $X_d$}
+
+Anhand der Messresultat vom Leerlauf-resp. Kurzschlussversuch lässt sich die Längsreaktanz $X_d$ berechnen. Da die SM mit der Nenndrehzahl betrieben wurde, dreht sich der Rotor mit der selben Winkelgeschwindigkeit wie das Statordrehfeld. In diesem Betriebsfall kann entsprechend nur die Längsreaktanz bestimmt werden.\\
+
+Es gilt:\\
+
+\vspace{0.3cm}
+$$\underline{\Delta U} = j \cdot X_d \cdot \underline{I_1}$$
+resp:\\
+\vspace{0.3cm}
+$$ X_d = \frac{\underline{\Delta U}}{j \cdot \underline{I_1}}  = 2 \cdot \pi \cdot f \cdot L_d$$\\
+
+\vspace{0.5cm}
+
+
+Im Leerlauffall gilt unter Vernachlässigung des Wicklungswiderstands vom Stator \\$\Delta U$ = $\underline{U_{1}}$. \\
+Der Phasenstrom $I_1$ kann, bei selbem Erregerstrom, der Kennlinie beim Kurzschlussversuch entnommen werden. Für einen Erregerstrom von 0.4A ergibt sich:\\
+\vspace{0.3cm}
+\begin{itemize}
+\item $\underline{U_{ph_eff}} = \Delta U = $ 150 V
+\item $\underline{I_{1_eff}} = $ 8 A
+\end{itemize}
+
+
+und somit:
+
+$$\underline{\underline{L_d}} = \frac{150 V }{j \cdot 8 A \cdot 2 \cdot \pi \cdot 50 Hz} = \underline{\underline{59.7 mH}}$$
+
+
+
 
 
 \end{flushleft}
