@@ -7,5 +7,11 @@
 *.cwGeneratedFileSetLog
 ProjectInfo.xml
 *.bak
+main.pdf
+*.toc
+*.tps
+*.out
+*.tcp
+*.bbl
 
 /Debug/
