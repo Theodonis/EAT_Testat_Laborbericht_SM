@@ -13,5 +13,5 @@ main.pdf
 *.out
 *.tcp
 *.bbl
-
+*.aux
 /Debug/
