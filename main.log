@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  7 APR 2019 17:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  11 APR 2019 10:49
 entering extended mode
 **./main.tex
 (main.tex
@@ -660,23 +660,41 @@ LaTeX Warning: Label `fig:abb1' multiply defined.
 
 LaTeX Warning: Label `fig:abb1' multiply defined.
 
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `fig:abb1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:abb1' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 
 ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
 i"
@@ -721,7 +739,7 @@ LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
 \AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring OFF on input line 78.
+Package hyperref Info: Link coloring OFF on input line 80.
 
 ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
 y"
@@ -733,14 +751,14 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count148
 )
-LaTeX Info: Redefining \ref on input line 78.
-LaTeX Info: Redefining \pageref on input line 78.
-LaTeX Info: Redefining \nameref on input line 78.
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 78.
+LaTeX Info: Redefining \microtypecontext on input line 80.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -766,21 +784,21 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Info: Redefining \celsius on input line 78.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 78.
+LaTeX Info: Redefining \celsius on input line 80.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 80.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 78.
-Package gensymb Info: Using \Omega for \ohm on input line 78.
+LaTeX Info: Redefining \ohm on input line 80.
+Package gensymb Info: Using \Omega for \ohm on input line 80.
 
 Package gensymb Warning: Not defining \micro.
 
 Package scrkbase Info: You've told me to extend the font selection of the
 (scrkbase)             element `sectioning' that is an alias of element
-(scrkbase)             `disposition' on input line 83.
+(scrkbase)             `disposition' on input line 85.
 (deckblatt.tex [1
 
 {C:/Users/Theo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (Einleitung
@@ -815,18 +833,18 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 9.
 
 [5] [6] [7]
-<figures/leerlauf.png, id=185, 163.3603pt x 167.12437pt>
+<figures/leerlauf.png, id=180, 163.3603pt x 167.12437pt>
 File: figures/leerlauf.png Graphic file (type png)
 <use figures/leerlauf.png>
 Package pdftex.def Info: figures/leerlauf.png  used on input line 114.
 (pdftex.def)             Requested size: 114.35143pt x 116.98625pt.
-<figures/leerlauf_schema.png, id=189, 641.39626pt x 216.05719pt>
+<figures/leerlauf_schema.png, id=184, 641.39626pt x 216.05719pt>
 File: figures/leerlauf_schema.png Graphic file (type png)
 <use figures/leerlauf_schema.png>
 Package pdftex.def Info: figures/leerlauf_schema.png  used on input line 127.
 (pdftex.def)             Requested size: 384.84071pt x 129.6353pt.
  [8 <./figures/leerlauf.png> <./figures/leerlauf_schema.png>]
-<figures/versuch_Uph_I_err.pdf, id=202, 487.87448pt x 283.36165pt>
+<figures/versuch_Uph_I_err.pdf, id=197, 487.87448pt x 283.36165pt>
 File: figures/versuch_Uph_I_err.pdf Graphic file (type pdf)
 <use figures/versuch_Uph_I_err.pdf>
 Package pdftex.def Info: figures/versuch_Uph_I_err.pdf  used on input line 147.
@@ -834,18 +852,18 @@ Package pdftex.def Info: figures/versuch_Uph_I_err.pdf  used on input line 147.
 (pdftex.def)             Requested size: 358.50612pt x 208.23587pt.
 
 [9 <./figures/versuch_Uph_I_err.pdf>]
-<figures/kurzschluss_schema.png, id=218, 671.50874pt x 231.11343pt>
+<figures/kurzschluss_schema.png, id=213, 671.50874pt x 231.11343pt>
 File: figures/kurzschluss_schema.png Graphic file (type png)
 <use figures/kurzschluss_schema.png>
 Package pdftex.def Info: figures/kurzschluss_schema.png  used on input line 180
 .
 (pdftex.def)             Requested size: 402.90836pt x 138.66913pt.
-<figures/zps_kurzschluss.png, id=219, 91.09032pt x 165.61874pt>
+<figures/zps_kurzschluss.png, id=214, 91.09032pt x 165.61874pt>
 File: figures/zps_kurzschluss.png Graphic file (type png)
 <use figures/zps_kurzschluss.png>
 Package pdftex.def Info: figures/zps_kurzschluss.png  used on input line 190.
 (pdftex.def)             Requested size: 72.87233pt x 132.49516pt.
-<figures/versuch_I_ph_I_err.pdf, id=220, 491.5709pt x 284.59323pt>
+<figures/versuch_I_ph_I_err.pdf, id=215, 491.5709pt x 284.59323pt>
 File: figures/versuch_I_ph_I_err.pdf Graphic file (type pdf)
 <use figures/versuch_I_ph_I_err.pdf>
 Package pdftex.def Info: figures/versuch_I_ph_I_err.pdf  used on input line 199
@@ -874,7 +892,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 232.
 
 [12]
-<figures/Schwebeverfahren.png, id=251, 825.0825pt x 306.39468pt>
+<figures/Schwebeverfahren.png, id=246, 825.0825pt x 306.39468pt>
 File: figures/Schwebeverfahren.png Graphic file (type png)
 <use figures/Schwebeverfahren.png>
 Package pdftex.def Info: figures/Schwebeverfahren.png  used on input line 253.
@@ -883,48 +901,95 @@ Package pdftex.def Info: figures/Schwebeverfahren.png  used on input line 253.
 
 pdfTeX warning: pdflatex.exe (file ./figures/schwebeverfahren_U_1.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/schwebeverfahren_U_1.pdf, id=252, 614.295pt x 794.97pt>
+<figures/schwebeverfahren_U_1.pdf, id=247, 614.295pt x 794.97pt>
 File: figures/schwebeverfahren_U_1.pdf Graphic file (type pdf)
 <use figures/schwebeverfahren_U_1.pdf>
 Package pdftex.def Info: figures/schwebeverfahren_U_1.pdf  used on input line 2
 65.
 (pdftex.def)             Requested size: 448.13095pt x 216.34828pt.
 [13 <./figures/Schwebeverfahren.png> <./figures/schwebeverfahren_U_1.pdf>]
-<figures/schwebeverfahren_I_ph.pdf, id=268, 500.19502pt x 271.0416pt>
+<figures/schwebeverfahren_I_ph.pdf, id=263, 500.19502pt x 271.0416pt>
 File: figures/schwebeverfahren_I_ph.pdf Graphic file (type pdf)
 <use figures/schwebeverfahren_I_ph.pdf>
 Package pdftex.def Info: figures/schwebeverfahren_I_ph.pdf  used on input line 
 278.
 (pdftex.def)             Requested size: 358.50612pt x 194.26474pt.
 
-[14 <./figures/schwebeverfahren_I_ph.pdf>] [15] [16]) [17] (Schlussteil.tex
+[14 <./figures/schwebeverfahren_I_ph.pdf>] [15]
+<figures/SM_Inselbetrieb_Uebersicht.pdf, id=284, 598.15468pt x 845.07718pt>
+File: figures/SM_Inselbetrieb_Uebersicht.pdf Graphic file (type pdf)
+<use figures/SM_Inselbetrieb_Uebersicht.pdf>
+Package pdftex.def Info: figures/SM_Inselbetrieb_Uebersicht.pdf  used on input 
+line 329.
+(pdftex.def)             Requested size: 358.50612pt x 216.48357pt.
+<figures/SM_Insel_1PH_R.pdf, id=286, 289.08pt x 107.4414pt>
+File: figures/SM_Insel_1PH_R.pdf Graphic file (type pdf)
+<use figures/SM_Insel_1PH_R.pdf>
+Package pdftex.def Info: figures/SM_Insel_1PH_R.pdf  used on input line 342.
+(pdftex.def)             Requested size: 116.51158pt x 43.30203pt.
+<figures/SM_Insel_1PH_C.pdf, id=287, 409.53pt x 105.2733pt>
+File: figures/SM_Insel_1PH_C.pdf Graphic file (type pdf)
+<use figures/SM_Insel_1PH_C.pdf>
+Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 347.
+(pdftex.def)             Requested size: 165.80626pt x 42.62259pt.
+<figures/SM_Insel_1PH_L.pdf, id=288, 402.54388pt x 105.2733pt>
+File: figures/SM_Insel_1PH_L.pdf Graphic file (type pdf)
+<use figures/SM_Insel_1PH_L.pdf>
+Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 352.
+(pdftex.def)             Requested size: 165.80626pt x 43.36151pt.
+
+Overfull \hbox (5.21532pt too wide) in paragraph at lines 341--356
+[][] [] [] 
+ []
+
+[16 <./figures/SM_Inselbetrieb_Uebersicht.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/SM_Inselbetrieb_Uebersicht.pdf): P
+DF inclusion: invalid other resource which is no dict (key 'ProcSets', type <ar
+ray>); ignored.
+> <./figures/SM_Insel_1PH_R.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_R.pdf): PDF inclusion
+: invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
+ed.
+> <./figures/SM_Insel_1PH_C.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_C.pdf): PDF inclusion
+: invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
+ed.
+> <./figures/SM_Insel_1PH_L.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_L.pdf): PDF inclusion
+: invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
+ed.
+>]) [17] (Schlussteil.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
  [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B0818424BE7DB05A259FF5C448E0D158;1826.
+(rerunfilecheck)             Checksum: 9A3DF447D3C5741DF057545D79D8B29C;1758.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 103.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 16649 strings out of 492969
- 308452 string characters out of 3127030
- 583305 words of memory out of 3000000
- 20163 multiletter control sequences out of 15000+200000
- 14687 words of font info for 71 fonts, out of 3000000 for 9000
+ 16680 strings out of 492969
+ 309366 string characters out of 3127030
+ 583321 words of memory out of 3000000
+ 20187 multiletter control sequences out of 15000+200000
+ 15044 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,20n,86p,9112b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,20n,86p,9112b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/font
@@ -940,9 +1005,9 @@ s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Theo/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Theo/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (18 pages, 408666 bytes).
+Output written on main.pdf (18 pages, 621238 bytes).
 PDF statistics:
- 357 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 18198 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 18728 words of extra memory for PDF output out of 20736 (max. 10000000)
 

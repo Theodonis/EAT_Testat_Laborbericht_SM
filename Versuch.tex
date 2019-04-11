@@ -321,7 +321,51 @@ $ \underline{\underline{L_q}}= \frac{\frac{\hat{U}_1}{\sqrt{2}}}{j \cdot 2 \cdot
 \newpage
 \section{SM als Generator im Inselbetrieb}
 \subsection{Belastungskennlinie}
-\subsection{Spannungsregelung}
+Bei diesem Versuch wird die Synchronmaschine als Generator im Inselbetrieb verwendet. Der Gleichstrommaschine dient als Antrieb.
+\vspace{0.3cm}
+\begin{figure}[h]
+    \centering
+        \includegraphics[ trim=1cm 16.5cm 7.6cm 5.7cm, clip,
+         width=0.8\textwidth]{SM_Inselbetrieb_Uebersicht.pdf}
+    \caption{Übersicht SM im Inselbetrieb}
+    \label{fig:abb1}
+\end{figure}
+
+\begin{itemize}
+\item \makebox[5cm][l]{$I_{err} = $ 0.8 A  }            konstanter Erregerstrom
+\item \makebox[5cm][l]{$n =  1500 \frac{1}{min}$}				konstante Drehzahl
+\end{itemize}
+
+\begin{figure}[ht!]
+    \captionsetup{justification=centering}
+\begin{minipage}[t]{0.26\textwidth}
+\includegraphics[width=\textwidth]{SM_Insel_1PH_R.pdf}
+\subcaption{Ohmsche Last}
+\label{fig:abb1}
+\end{minipage}
+\begin{minipage}[t]{0.37\textwidth}
+\includegraphics[width=\textwidth]{SM_Insel_1PH_C.pdf}
+\subcaption{Kapazitive Last}
+    \label{fig:abb1}
+\end{minipage}
+\begin{minipage}[t]{0.37\textwidth}
+\includegraphics[width=\textwidth]{SM_Insel_1PH_L.pdf}
+\subcaption{Induktive Last}
+    \label{fig:abb1}
+\end{minipage}
+\caption{Einphasen Ersatzschaltbild der SM im Inselbetrieb}
+\end{figure}
+
+%\begin{figure}[h]
+ 
+  %\subfigure[Ohmsch]{\includegraphics{SM_Insel_1PH_R.pdf}}\quad
+  %\subfigure[Kapazitiv]{\includegraphics{SM_Insel_1PH_C.pdf}}\quad
+  %\subfigure[Induktiv]{\includegraphics{SM_Insel_1PH_L.pdf}}
+  %\caption{mehrere Bilder nebeneinander}
+%\end{figure}
+
+%\subsubsection{Ohmsche
+%\subsection{Spannungsregelung}
 
 
 \newpage
