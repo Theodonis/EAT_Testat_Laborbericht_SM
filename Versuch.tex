@@ -321,7 +321,7 @@ $ \underline{\underline{L_q}}= \frac{\frac{\hat{U}_1}{\sqrt{2}}}{j \cdot 2 \cdot
 \newpage
 \section{SM als Generator im Inselbetrieb}
 \subsection{Belastungskennlinie}
-Bei diesem Versuch wird die Synchronmaschine als Generator im Inselbetrieb verwendet. Der Gleichstrommaschine dient als Antrieb.
+Bei diesem Versuch wirkt die Synchronmaschine als Generator im Inselbetrieb. Der Gleichstrommaschine dient als Antrieb.
 \vspace{0.3cm}
 \begin{figure}[h]
     \centering
@@ -330,11 +330,13 @@ Bei diesem Versuch wird die Synchronmaschine als Generator im Inselbetrieb verwe
     \caption{Übersicht SM im Inselbetrieb}
     \label{fig:abb1}
 \end{figure}
+Bei konstantem  Erregerstrom und konstanter Drehzahl wird eine Phasenspannung $U_1$, ein Phasenstrom $I_1$ und der Polradwinkel $\beta$ bei verschiedenen Lasten gemessen. Zum einen werden die Daten für eine kapazitive, eine induktive und eine ohmsche Last jeweils mit $I_1eff = 3.8A$ gemessen
 
 \begin{itemize}
 \item \makebox[5cm][l]{$I_{err} = $ 0.8 A  }            konstanter Erregerstrom
 \item \makebox[5cm][l]{$n =  1500 \frac{1}{min}$}				konstante Drehzahl
 \end{itemize}
+
 
 \begin{figure}[ht!]
     \captionsetup{justification=centering}
@@ -356,16 +358,26 @@ Bei diesem Versuch wird die Synchronmaschine als Generator im Inselbetrieb verwe
 \caption{Einphasen Ersatzschaltbild der SM im Inselbetrieb}
 \end{figure}
 
-%\begin{figure}[h]
- 
-  %\subfigure[Ohmsch]{\includegraphics{SM_Insel_1PH_R.pdf}}\quad
-  %\subfigure[Kapazitiv]{\includegraphics{SM_Insel_1PH_C.pdf}}\quad
-  %\subfigure[Induktiv]{\includegraphics{SM_Insel_1PH_L.pdf}}
-  %\caption{mehrere Bilder nebeneinander}
-%\end{figure}
 
-%\subsubsection{Ohmsche
-%\subsection{Spannungsregelung}
+\begin{figure}[ht!]
+    \captionsetup{justification=centering}
+\begin{minipage}[t]{0.32\textwidth}
+\includegraphics[width=\textwidth]{631_Bild3.pdf}
+\subcaption{Ohmsche Last}
+\label{fig:abb1}
+\end{minipage}
+\begin{minipage}[t]{0.32\textwidth}
+\includegraphics[width=\textwidth]{631_Bild2.pdf}
+\subcaption{Kapazitive Last}
+    \label{fig:abb1}
+\end{minipage}
+\begin{minipage}[t]{0.32\textwidth}
+\includegraphics[width=\textwidth]{631_Bild1.pdf}
+\subcaption{Induktive Last}
+    \label{fig:abb1}
+\end{minipage}
+\caption{Verlauf des Phasenstom und der Spannung}
+\end{figure}
 
 
 \newpage

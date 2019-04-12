@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  11 APR 2019 10:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  11 APR 2019 12:28
 entering extended mode
 **./Versuch.tex
 (Versuch.tex
@@ -6343,7 +6343,8 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -6389,15 +6390,6 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no b in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no D in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -6701,7 +6693,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.339 \begin{figure}
+l.340 \begin{figure}
                     [ht!]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -6713,7 +6705,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.340     \captionsetup
+l.341     \captionsetup
                        {justification=centering}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6745,7 +6737,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.342 \includegraphics
+l.343 \includegraphics
                       [width=\textwidth]{SM_Insel_1PH_R.pdf}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6763,7 +6755,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.342 \includegraphics[width=\textwidth]
+l.343 \includegraphics[width=\textwidth]
                                         {SM_Insel_1PH_R.pdf}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6772,7 +6764,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.342 \includegraphics[width=\textwidth]
+l.343 \includegraphics[width=\textwidth]
                                         {SM_Insel_1PH_R.pdf}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6787,13 +6779,13 @@ Missing character: There is no M in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.342 \includegraphics[width=\textwidth]{SM_
+l.343 \includegraphics[width=\textwidth]{SM_
                                             Insel_1PH_R.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.342 ...ics[width=\textwidth]{SM_Insel_1PH_R.pdf}
+l.343 ...ics[width=\textwidth]{SM_Insel_1PH_R.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6802,7 +6794,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.343 \subcaption
+l.344 \subcaption
                  {Ohmsche Last}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6813,7 +6805,7 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.345 \end{minipage}
+l.346 \end{minipage}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -6821,7 +6813,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.345 \end{minipage}
+l.346 \end{minipage}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -6830,7 +6822,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 ! Undefined control sequence.
-l.347 \includegraphics
+l.348 \includegraphics
                       [width=\textwidth]{SM_Insel_1PH_C.pdf}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6848,7 +6840,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.347 \includegraphics[width=\textwidth]
+l.348 \includegraphics[width=\textwidth]
                                         {SM_Insel_1PH_C.pdf}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6857,7 +6849,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.347 \includegraphics[width=\textwidth]
+l.348 \includegraphics[width=\textwidth]
                                         {SM_Insel_1PH_C.pdf}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6872,13 +6864,13 @@ Missing character: There is no M in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.347 \includegraphics[width=\textwidth]{SM_
+l.348 \includegraphics[width=\textwidth]{SM_
                                             Insel_1PH_C.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.347 ...ics[width=\textwidth]{SM_Insel_1PH_C.pdf}
+l.348 ...ics[width=\textwidth]{SM_Insel_1PH_C.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6887,7 +6879,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.348 \subcaption
+l.349 \subcaption
                  {Kapazitive Last}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6898,7 +6890,7 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.350 \end{minipage}
+l.351 \end{minipage}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -6906,7 +6898,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.350 \end{minipage}
+l.351 \end{minipage}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -6915,7 +6907,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 ! Undefined control sequence.
-l.352 \includegraphics
+l.353 \includegraphics
                       [width=\textwidth]{SM_Insel_1PH_L.pdf}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6933,7 +6925,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.352 \includegraphics[width=\textwidth]
+l.353 \includegraphics[width=\textwidth]
                                         {SM_Insel_1PH_L.pdf}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -6942,7 +6934,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.352 \includegraphics[width=\textwidth]
+l.353 \includegraphics[width=\textwidth]
                                         {SM_Insel_1PH_L.pdf}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6957,13 +6949,13 @@ Missing character: There is no M in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.352 \includegraphics[width=\textwidth]{SM_
+l.353 \includegraphics[width=\textwidth]{SM_
                                             Insel_1PH_L.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.352 ...ics[width=\textwidth]{SM_Insel_1PH_L.pdf}
+l.353 ...ics[width=\textwidth]{SM_Insel_1PH_L.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6972,7 +6964,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.353 \subcaption
+l.354 \subcaption
                  {Induktive Last}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6983,7 +6975,7 @@ and I'll forget about whatever was undefined.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.355 \end{minipage}
+l.356 \end{minipage}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -6991,7 +6983,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.355 \end{minipage}
+l.356 \end{minipage}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -7006,7 +6998,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356 \caption
+l.357 \caption
               {Einphasen Ersatzschaltbild der SM im Inselbetrieb}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -7062,7 +7054,374 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.357 \end{figure}
+l.358 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 \begin{figure}
+                    [ht!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.362     \captionsetup
+                       {justification=centering}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no j in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+l.364 \includegraphics
+                      [width=\textwidth]{631_Bild3.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.364 \includegraphics[width=\textwidth]
+                                        {631_Bild3.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.364 \includegraphics[width=\textwidth]
+                                        {631_Bild3.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.364 \includegraphics[width=\textwidth]{631_
+                                             Bild3.pdf}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.364 ...graphics[width=\textwidth]{631_Bild3.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.365 \subcaption
+                 {Ohmsche Last}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.367 \end{minipage}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.367 \end{minipage}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+l.369 \includegraphics
+                      [width=\textwidth]{631_Bild2.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.369 \includegraphics[width=\textwidth]
+                                        {631_Bild2.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.369 \includegraphics[width=\textwidth]
+                                        {631_Bild2.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.369 \includegraphics[width=\textwidth]{631_
+                                             Bild2.pdf}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.369 ...graphics[width=\textwidth]{631_Bild2.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.370 \subcaption
+                 {Kapazitive Last}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.372 \end{minipage}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.372 \end{minipage}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+l.374 \includegraphics
+                      [width=\textwidth]{631_Bild1.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.374 \includegraphics[width=\textwidth]
+                                        {631_Bild1.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.374 \includegraphics[width=\textwidth]
+                                        {631_Bild1.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.374 \includegraphics[width=\textwidth]{631_
+                                             Bild1.pdf}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.374 ...graphics[width=\textwidth]{631_Bild1.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.375 \subcaption
+                 {Induktive Last}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.377 \end{minipage}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.377 \end{minipage}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 \caption
+              {Verlauf des Phasenstom und der Spannung}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no V in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: \begin{flushleft} on input line 1 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7076,7 +7435,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.371 \newpage
+l.382 \newpage
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7086,7 +7445,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 <write> \newlabel{fig:abb1}{{}{\thepage 
                                         }}
-l.371 \newpage
+l.382 \newpage
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7097,7 +7456,7 @@ and I'll forget about whatever was undefined.
 \newlabel{fig:abb1}{{}{}}
 ]
 ! Undefined control sequence.
-l.372 \section
+l.383 \section
               {SM am Netz}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7114,7 +7473,7 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no z in font nullfont!
 ! Undefined control sequence.
-l.373 \subsection
+l.384 \subsection
                  {Synchronisation}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7138,7 +7497,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
-l.374 \subsection
+l.385 \subsection
                  {Variation der Wirkleistung}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7171,7 +7530,7 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 ! Undefined control sequence.
-l.375 \subsection
+l.386 \subsection
                  {Variation der Blindleistung}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
