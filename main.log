@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  11 APR 2019 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  12 APR 2019 10:58
 entering extended mode
 **./main.tex
 (main.tex
@@ -943,44 +943,44 @@ line 329.
 <figures/SM_Insel_1PH_R.pdf, id=286, 289.08pt x 107.4414pt>
 File: figures/SM_Insel_1PH_R.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_R.pdf>
-Package pdftex.def Info: figures/SM_Insel_1PH_R.pdf  used on input line 344.
+Package pdftex.def Info: figures/SM_Insel_1PH_R.pdf  used on input line 345.
 (pdftex.def)             Requested size: 116.51158pt x 43.30203pt.
 <figures/SM_Insel_1PH_C.pdf, id=287, 409.53pt x 105.2733pt>
 File: figures/SM_Insel_1PH_C.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_C.pdf>
-Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 349.
+Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 350.
 (pdftex.def)             Requested size: 165.80626pt x 42.62259pt.
 <figures/SM_Insel_1PH_L.pdf, id=288, 402.54388pt x 105.2733pt>
 File: figures/SM_Insel_1PH_L.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_L.pdf>
-Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 354.
+Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 355.
 (pdftex.def)             Requested size: 165.80626pt x 43.36151pt.
 
-Overfull \hbox (5.21532pt too wide) in paragraph at lines 343--358
+Overfull \hbox (5.21532pt too wide) in paragraph at lines 344--359
 [][] [] [] 
  []
 
 <figures/631_Bild3.pdf, id=289, 495.267pt x 222.9931pt>
 File: figures/631_Bild3.pdf Graphic file (type pdf)
 <use figures/631_Bild3.pdf>
-Package pdftex.def Info: figures/631_Bild3.pdf  used on input line 365.
+Package pdftex.def Info: figures/631_Bild3.pdf  used on input line 368.
 (pdftex.def)             Requested size: 143.40518pt x 64.56766pt.
 <figures/631_Bild2.pdf, id=290, 492.80312pt x 215.60048pt>
 File: figures/631_Bild2.pdf Graphic file (type pdf)
 <use figures/631_Bild2.pdf>
-Package pdftex.def Info: figures/631_Bild2.pdf  used on input line 370.
+Package pdftex.def Info: figures/631_Bild2.pdf  used on input line 373.
 (pdftex.def)             Requested size: 143.40518pt x 62.73965pt.
 <figures/631_Bild1.pdf, id=291, 498.96303pt x 241.47314pt>
 File: figures/631_Bild1.pdf Graphic file (type pdf)
 <use figures/631_Bild1.pdf>
-Package pdftex.def Info: figures/631_Bild1.pdf  used on input line 375.
+Package pdftex.def Info: figures/631_Bild1.pdf  used on input line 378.
 (pdftex.def)             Requested size: 143.40518pt x 69.39903pt.
 [16 <./figures/SM_Inselbetrieb_Uebersicht.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/SM_Inselbetrieb_Uebersicht.pdf): P
 DF inclusion: invalid other resource which is no dict (key 'ProcSets', type <ar
 ray>); ignored.
-> <./figures/SM_Insel_1PH_R.pdf
+>]) [17 <./figures/SM_Insel_1PH_R.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_R.pdf): PDF inclusion
 : invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
@@ -995,8 +995,8 @@ ed.
 pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_L.pdf): PDF inclusion
 : invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
 ed.
->]) [17 <./figures/631_Bild3.pdf> <./figures/631_Bild2.pdf> <./figures/631_Bild
-1.pdf>] (Schlussteil.tex
+> <./figures/631_Bild3.pdf> <./figures/631_Bild2.pdf> <./figures/631_Bild1.pdf>
+] (Schlussteil.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
@@ -1017,11 +1017,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 16696 strings out of 492969
- 309803 string characters out of 3127030
+ 16694 strings out of 492969
+ 309787 string characters out of 3127030
  583321 words of memory out of 3000000
  20199 multiletter control sequences out of 15000+200000
- 15044 words of font info for 73 fonts, out of 3000000 for 9000
+ 14995 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,20n,86p,9112b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
@@ -1039,7 +1039,7 @@ s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Theo/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Theo/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (18 pages, 903017 bytes).
+Output written on main.pdf (18 pages, 903077 bytes).
 PDF statistics:
  488 PDF objects out of 1000 (max. 8388607)
  61 named destinations out of 1000 (max. 500000)
