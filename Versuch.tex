@@ -331,56 +331,207 @@ Bei diesem Versuch wirkt die Synchronmaschine als Generator im Inselbetrieb. Die
     \label{fig:abb1}
 \end{figure}
 \vspace{0.3cm}
-Bei konstantem  Erregerstrom und konstanter Drehzahl wird die Phasenspannung $U_1$, der Phasenstrom $I_1$ und der Polradwinkel $\vartheta$ bei verschiedenen Lasten gemessen. Zum einen werden die Daten bei einer kapazitiven, einer induktiven und einer ohmschen Last jeweils mit $I_{1_{eff}} = 3.8A$ gemessen
+Bei konstantem  Erregerstrom und konstanter Drehzahl wird die Phasenspannung $U_1$, der Phasenstrom $I_1$ und der Polradwinkel $\vartheta$ bei verschiedenen Lasten gemessen. Zum einen werden die Daten bei einer kapazitiven, einer induktiven und einer ohmschen Last jeweils mit $I_{1_{eff}}$ resp. $I_{ph_{eff}}$ = 4.8A gemessen.
 
 \begin{itemize}
-\item \makebox[5cm][l]{$I_{err} = $ 0.8 A  }            konstanter Erregerstrom
+\item \makebox[5cm][l]{$I_{err} = $ 1.1 A  }            konstanter Erregerstrom
 \item \makebox[5cm][l]{$n =  1500 \frac{1}{min}$}				konstante Drehzahl
 \end{itemize}
+\newpage
 
 
-\begin{figure}[ht!]
-    \captionsetup{justification=centering}
-\begin{minipage}[t]{0.26\textwidth}
+Zuerst wurde die SM in den Leerlaufbetrieb versetzt um die Polradspannung bei einem Erregerstrom von 1.1 A zu ermitteln. Für $U_1$ resp. $U_{ph}$ konnte man so eine Spannung von 228V messen, dieser Wert kann für die Polradspannung $U_p$ bei den folgenden Betriebsarten verwendete werden. 
+
+\subsubsection{Ohmsche Belastung}
+
+\begin{figure}[H]
+\begin{minipage}[t]{0.45\textwidth}
+\centering
 \includegraphics[width=\textwidth]{SM_Insel_1PH_R.pdf}
-\subcaption{Ohmsche Last}
+\subcaption{Schema ohmsche Last im EZS}
 \label{fig:abb1}
 \end{minipage}
-\begin{minipage}[t]{0.37\textwidth}
+\begin{minipage}[t]{0.4\textwidth}
+\centering
+\includegraphics[width=0.4\textwidth]{631_zeiger_ohmsch}
+\subcaption{Zeigerdiagramm im EZS}
+    \label{fig:abb1}
+\end{minipage}
+\end{figure}
+
+
+\underline{Messresultate:}\\
+\vspace{0.3cm}
+
+
+\begin{itemize}
+\item \makebox[5cm][l]{Polradwinkel $\varphi$  }            6\degree
+\item \makebox[5cm][l]{$U_{ph_{eff}}$   }            223 V
+\item \makebox[5cm][l]{$I_{ph_{eff}}$   }            4.85 A
+\end{itemize}
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+        \includegraphics[ %trim=0.5cm 1cm 0.5cm 1cm,
+         width=0.8\textwidth]{631_Bild4_Ohmsch.pdf}
+    \caption{Messung mit dem KO}
+    \label{fig:abb1}
+\end{figure}
+
+\textcolor{red}{Der Polradwinkel stimmt nicht ganz wenn man die Berechnung mit der Querreaktanz usw. durchführt. Zusätzlich noch begründen wiso Querreaktanz relevant ist}
+\newpage
+
+
+
+
+\subsubsection{Kapazitive Belastung}
+
+\begin{figure}[H]
+\begin{minipage}[t]{0.55\textwidth}
+\centering
 \includegraphics[width=\textwidth]{SM_Insel_1PH_C.pdf}
-\subcaption{Kapazitive Last}
-    \label{fig:abb1}
-\end{minipage}
-\begin{minipage}[t]{0.37\textwidth}
-\includegraphics[width=\textwidth]{SM_Insel_1PH_L.pdf}
-\subcaption{Induktive Last}
-    \label{fig:abb1}
-\end{minipage}
-\caption{Einphasen Ersatzschaltbild der SM im Inselbetrieb}
-\end{figure}
-
-
-
-
-\begin{figure}[ht!]
-    \captionsetup{justification=centering}
-\begin{minipage}[t]{0.32\textwidth}
-\includegraphics[width=\textwidth]{631_Bild3.pdf}
-\subcaption{Ohmsche Last}
+\subcaption{Schema kapazitive Last im EZS}
 \label{fig:abb1}
 \end{minipage}
-\begin{minipage}[t]{0.32\textwidth}
-\includegraphics[width=\textwidth]{631_Bild2.pdf}
-\subcaption{Kapazitive Last}
+\begin{minipage}[t]{0.4\textwidth}
+\centering
+\includegraphics[width=0.3\textwidth]{631_zeiger_kap}
+\subcaption{Zeigerdiagramm im EZS}
     \label{fig:abb1}
 \end{minipage}
-\begin{minipage}[t]{0.32\textwidth}
-\includegraphics[width=\textwidth]{631_Bild1.pdf}
-\subcaption{Induktive Last}
-    \label{fig:abb1}
-\end{minipage}
-\caption{Verlauf des Phasenstom und der Spannung}
 \end{figure}
+
+
+\underline{Messresultate:}\\
+\vspace{0.3cm}
+
+
+\begin{itemize}
+\item \makebox[5cm][l]{Polradwinkel $\varphi$  }            1.4\degree
+\item \makebox[5cm][l]{$U_{ph_{eff}}$   }            266 V
+\item \makebox[5cm][l]{$I_{ph_{eff}}$   }            4.8 A
+\end{itemize}
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+        \includegraphics[ %trim=0.5cm 1cm 0.5cm 1cm,
+         width=0.8\textwidth]{631_Bild5_Kapazitiv.pdf}
+    \caption{Messung mit dem KO}
+    \label{fig:abb1}
+\end{figure}
+
+An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca. 90 \degree voreilt. Weiter ist die erhöhte Phasenspannung gegenüber der ohmschen Last von der vorangehenden Messung ersichtlich. \textcolor{red}{Legende falsch -> nicht effektivwerte}
+
+
+
+
+
+
+
+
+
+
+\newpage
+
+
+
+
+\subsubsection{Induktive Belastung}
+
+\begin{figure}[H]
+\begin{minipage}[t]{0.52\textwidth}
+\centering
+\includegraphics[width=\textwidth]{SM_Insel_1PH_L.pdf}
+\subcaption{Schema induktive Last im EZS}
+\label{fig:abb1}
+\end{minipage}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\includegraphics[width=0.3\textwidth]{631_zeiger_ind}
+\subcaption{Zeigerdiagramm im EZS}
+    \label{fig:abb1}
+\end{minipage}
+\end{figure}
+
+
+\underline{Messresultate:}\\
+\vspace{0.3cm}
+
+
+\begin{itemize}
+\item \makebox[5cm][l]{Polradwinkel $\varphi$  }            0.6\degree
+\item \makebox[5cm][l]{$U_{ph_{eff}}$   }            180 V
+\item \makebox[5cm][l]{$I_{ph_{eff}}$   }            4.8 A
+\end{itemize}
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+        \includegraphics[ %trim=0.5cm 1cm 0.5cm 1cm,
+         width=0.8\textwidth]{631_Bild6_Induktiv.pdf}
+    \caption{Messung mit dem KO}
+    \label{fig:abb1}
+\end{figure}
+
+Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der Einfluss der Belastungsimpedanz auf die Amplitude der Phasenspannung gut erkennbar. Während sie bei kapazitiver Last zunimmt, sinkt sie bei einer induktiven Belastung. \textcolor{red}{Legende falsch -> nicht effektivwerte}
+
+
+\newpage
+
+\textcolor{red}{TODO: Einfluss auf die Resultate wenn der Sternpunkt verbunden ist -- bei den Messungen oben wurde der Sternpunkt nicht verbunden. Im Labor war kein signifikanter Unterschied erkennbar}
+
+
+
+
+
+
+
+
+
+%\begin{figure}[ht!]
+%    \captionsetup{justification=centering}
+%\begin{minipage}[t]{0.26\textwidth}
+%\includegraphics[width=\textwidth]{SM_Insel_1PH_R.pdf}
+%\subcaption{Ohmsche Last}
+%\label{fig:abb1}
+%\end{minipage}
+%\begin{minipage}[t]{0.37\textwidth}
+%\includegraphics[width=\textwidth]{SM_Insel_1PH_C.pdf}
+%\subcaption{Kapazitive Last}
+%    \label{fig:abb1}
+%\end{minipage}
+%\begin{minipage}[t]{0.37\textwidth}
+%\includegraphics[width=\textwidth]{SM_Insel_1PH_L.pdf}
+%\subcaption{Induktive Last}
+%    \label{fig:abb1}
+%\end{minipage}
+%\caption{Einphasen Ersatzschaltbild der SM im Inselbetrieb}
+%\end{figure}
+
+
+
+
+%\begin{figure}[ht!]
+%    \captionsetup{justification=centering}
+%\begin{minipage}[t]{0.32\textwidth}
+%\includegraphics[width=\textwidth]{631_Bild4_Ohmsch.pdf}
+%\subcaption{Ohmsche Last}
+%\label{fig:abb1}
+%\end{minipage}
+%\begin{minipage}[t]{0.32\textwidth}
+%\includegraphics[width=\textwidth]{631_Bild5_Kapazitiv.pdf}
+%\subcaption{Kapazitive Last}
+%    \label{fig:abb1}
+%\end{minipage}
+%\begin{minipage}[t]{0.32\textwidth}
+%\includegraphics[width=\textwidth]{631_Bild6_Induktiv.pdf}
+%\subcaption{Induktive Last}
+%    \label{fig:abb1}
+%\end{minipage}
+%\caption{Verlauf des Phasenstom und der Spannung}
+%\end{figure}
 
 
 \newpage
