@@ -562,6 +562,31 @@ Die Regelung ist im Chopper integriert. \\
 
 
 
+\subsubsection{Funktionsbeschreibung}
+\vspace{0.3cm}
+Über ein Potentiometer kann der Sollwert eingestellt werden. Diese Grösse, abzüglich dem Istwert definiert den Fehler. Über den Regler wird entsprechend die Stellgrösse, in diesem Fall der Erregerstrom $I_{err}$, angepasst. Grundsätzlich gilt; je höher der Erregerstrom, desto höher die Statorspannung. \\
+Die Statorspannung wird zuerst konvertiert, damit sie mit der Sollgrösse verglichen werden kann.
+\textcolor{red}{evtl. KOnvertierungsmethode (Schema auf dem Chopper erklären - oder auch nicht :))}
+
+\newpage
+
+
+\subsubsection{Messung}
+Die SM wurde für die Messung einem induktiven Laststoss ausgesetzt. In der Abbildung ist zu erkennen, dass der Regler die Spannung nach einem anfänglichen Überschwingen stabilisiert hat. Der Einschwingvorgang dauert ungefähr 2ms.\\
+
+\vspace{0.5cm}
+
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=1cm 16.5cm 7.6cm 5.7cm, clip,
+         width=\textwidth]{632_U-Regelung.pdf}
+    \caption{Messung Spannungsregelung}
+    \label{fig:abb1}
+\end{figure}
+
+
 
 
 
@@ -613,6 +638,13 @@ Die Regelung ist im Chopper integriert. \\
 \newpage
 \addtocontents{toc}{\protect\newpage}  % seitenumbruch im Inhaltsverzeichnis erzwingen
 \section{SM am Netz}
+
+\textcolor{red}{hier weiter}
+
+
+
+
+
 \subsection{Synchronisation}
 \subsection{Variation der Wirkleistung}
 \subsection{Variation der Blindleistung}
