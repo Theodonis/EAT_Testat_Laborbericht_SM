@@ -526,14 +526,39 @@ An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca.
     \label{fig:abb1}
 \end{figure}
 
-Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der Einfluss der Belastungsimpedanz auf die Amplitude der Phasenspannung gut erkennbar. Während sie bei kapazitiver Last zunimmt, sinkt sie bei einer induktiven Belastung. 
-
-
-\newpage
+Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der Einfluss der Belastungsimpedanz auf die Amplitude der Phasenspannung gut erkennbar. Während sie bei kapazitiver Last zunimmt, sinkt sie bei einer induktiven Belastung. \\
 
 \textcolor{red}{TODO: Einfluss auf die Resultate wenn der Sternpunkt verbunden ist -- bei den Messungen oben wurde der Sternpunkt nicht verbunden. Im Labor war kein signifikanter Unterschied erkennbar}
 
+\begin{figure}[H]
+    \centering
+        \includegraphics[ %trim=1cm 16.5cm 7.6cm 5.7cm, clip,
+         width=\textwidth]{631_Bild7_Sternpunkt_MitOhneVerb.pdf}
+    \caption{Einfluss Sternpunktbezug}
+    \label{fig:abb1}
+\end{figure}
 
+
+
+
+
+\newpage
+\subsection{Spannungsregelung}
+
+In diesem Versuch wurde die Phasenspannung der SM über den Erregerstrom geregelt. So kann sichergestellt werden, dass die Statorspannung unabhängig der Last gleich bleibt.
+Im Inselbetrieb, dh. wenn die SM als Generator betrieben wird, kann je nach Lastimpedanz die Spannung am Stator variieren. Da die Maschine in diesem Betriebszustand als Versorgungsnetz für andere elektrische Geräte dient, ist es wichtig, dass die Spannung konstant bleibt, unabhängig der zugeschalteten resp. weggeschalteten Lasten.\\
+Die Regelung ist im Chopper integriert. \\
+
+\vspace{0.3cm}
+
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[ scale = 0.6]{632}
+    \caption{Funktionsschema Spannungsregelung}
+    \label{fig:abb1}
+\end{figure}
 
 
 
@@ -586,6 +611,7 @@ Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der 
 
 
 \newpage
+\addtocontents{toc}{\protect\newpage}  % seitenumbruch im Inhaltsverzeichnis erzwingen
 \section{SM am Netz}
 \subsection{Synchronisation}
 \subsection{Variation der Wirkleistung}
