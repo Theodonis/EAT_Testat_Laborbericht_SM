@@ -384,31 +384,40 @@ Zuerst wurde die SM in den Leerlaufbetrieb versetzt um die Polradspannung bei ei
 \hline
 \end{tabular}
 
-Die Unterschiede sind auf die vernachlässigten ohmschen Verluste in den Maschinenwicklung zurück zu führen. Das bedeutet, das $\delta U$ in nicht exakt $90\degree$ voreilend zu $I_1$ ist.
-
+Die Unterschiede sind auf die vernachlässigten ohmschen Verluste in den Maschinenwicklungen zurück zu führen. Das bedeutet, das $\Delta U$ nicht exakt $90\degree$ voreilend zu $I_1$ ist.
+\begin{equ}[H]
 \begin{equation} \label{eq:Polradmessung}
 \begin{aligned}
  U_p = \frac{U_1}{cos(\varphi)} = 224 V \\
  \Delta U = \sqrt{U_p^2-U_1^2} = 23.4 V 
 \end{aligned}
-\end{equation} 
+\end{equation}
+\caption{Berechnungen mit dem gemessenen Polradwinkel}
+\end{equ} 
 
+\begin{equ}[H]
 \begin{equation} \label{eq:deltaU}
 \begin{aligned} 
 	\Delta U = 2*\pi*f*L_q*I_1 = 62.5 V \\
 	U_p = \sqrt{\Delta U^2+U_1^2} = 231.6 V \\
 	\varphi = arccos(\frac{U_1}{U_p} = 15.6\degree)
-\end{aligned}
+	\end{aligned}
 \end{equation} 
+\caption{Berechnungen über die ermittelte Reaktanz}
+\end{equ}
 
+In der Berechnung wird $L_q$ verwendet, da der Strom $I_1$ bei ohmscher Last annähernd parallel zu $U_p$ verläuft und somit die q-Komponenten des Stromes den Haupteinfluss verursacht.
+
+\begin{equ}[H]
 \begin{equation} \label{eq:Up}
 \begin{aligned} 
 	U_p = \frac{397 V}{\sqrt{3}} = 229.2 V \\
 	\Delta U = \sqrt{U_p^2-U_1^2} = 53 V \\
 	\varphi = arccos(\frac{U_1}{U_p}) = 13.4\degree
-\end{aligned}
+	\end{aligned}
 \end{equation} 
-
+\caption{Berechnungen über die Leerlaufkennlinie}
+\end{equ}
 
 
 
@@ -419,7 +428,7 @@ Die Unterschiede sind auf die vernachlässigten ohmschen Verluste in den Maschin
     \label{fig:abb1}
 \end{figure}
 
-\textcolor{red}{@Andy: bisch ufs gliche cho? Zusätzlich noch begründen wiso Querreaktanz relevant ist}
+\textcolor{red}{@Andy: bisch ufs gliche cho? Zusätzlich noch begründen wiso Querreaktanz relevant ist -> gemacht! Verständlich?}
 \newpage
 
 
