@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  14 APR 2019 08:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  14 APR 2019 10:36
 entering extended mode
 **./main.tex
 (main.tex
@@ -667,9 +667,6 @@ LaTeX Warning: Label `fig:abb1' multiply defined.
 LaTeX Warning: Label `fig:abb1' multiply defined.
 
 
-LaTeX Warning: Label `fig:abb1' multiply defined.
-
-
 LaTeX Warning: Label `sub@fig:abb1' multiply defined.
 
 
@@ -966,70 +963,63 @@ File: figures/631_zeiger_ohmsch.png Graphic file (type png)
 Package pdftex.def Info: figures/631_zeiger_ohmsch.png  used on input line 356.
 
 (pdftex.def)             Requested size: 71.69875pt x 122.66588pt.
-Package epstopdf Info: Source file: <figures/631_Ohmsch.eps>
-(epstopdf)                    date: 2019-04-14 08:51:22
-(epstopdf)                    size: 112106 bytes
-(epstopdf)             Output file: <figures/631_Ohmsch-eps-converted-to.pdf>
-(epstopdf)             Command: <epstopdf --outfile=figures/631_Ohmsch-eps-conv
-erted-to.pdf figures/631_Ohmsch.eps>
-(epstopdf)             \includegraphics on input line 377.
-runsystem(epstopdf --outfile=figures/631_Ohmsch-eps-converted-to.pdf figures/63
-1_Ohmsch.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <figures/631_Ohmsch-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-14 08:53:14
-(epstopdf)                    size: 32621 bytes.
-
-
-pdfTeX warning: pdflatex.exe (file ./figures/631_Ohmsch-eps-converted-to.pdf): 
-PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Ohmsch-eps-converted-to.pdf, id=328, 963.6pt x 466.74374pt>
-File: figures/631_Ohmsch-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/631_Ohmsch-eps-converted-to.pdf>
-Package pdftex.def Info: figures/631_Ohmsch-eps-converted-to.pdf  used on input
- line 377.
-(pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
-[17 <./figures/SM_Insel_1PH_R.pdf
+ [17 <./figures/SM_Insel_1PH_R.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_R.pdf): PDF inclusion
 : invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
 ed.
-> <./figures/631_zeiger_ohmsch.png>] [18 <./figures/631_Ohmsch-eps-converted-to
-.pdf>]
-<figures/SM_Insel_1PH_C.pdf, id=373, 409.53pt x 105.2733pt>
+> <./figures/631_zeiger_ohmsch.png>]
+Package epstopdf Info: Source file: <figures/631_Ohmsch.eps>
+(epstopdf)                    date: 2019-04-14 08:51:22
+(epstopdf)                    size: 112106 bytes
+(epstopdf)             Output file: <figures/631_Ohmsch-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-14 08:53:14
+(epstopdf)                    size: 32621 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/631_Ohmsch-eps-conv
+erted-to.pdf figures/631_Ohmsch.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/631_Ohmsch-eps-converted-to.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/631_Ohmsch-eps-converted-to.pdf, id=367, 963.6pt x 466.74374pt>
+File: figures/631_Ohmsch-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/631_Ohmsch-eps-converted-to.pdf>
+Package pdftex.def Info: figures/631_Ohmsch-eps-converted-to.pdf  used on input
+ line 414.
+(pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
+[18 <./figures/631_Ohmsch-eps-converted-to.pdf>]
+<figures/SM_Insel_1PH_C.pdf, id=381, 409.53pt x 105.2733pt>
 File: figures/SM_Insel_1PH_C.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_C.pdf>
-Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 393.
+Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 430.
 (pdftex.def)             Requested size: 246.47339pt x 63.35883pt.
-<figures/631_zeiger_kap.png, id=374, 173.89969pt x 506.6428pt>
+<figures/631_zeiger_kap.png, id=382, 173.89969pt x 506.6428pt>
 File: figures/631_zeiger_kap.png Graphic file (type png)
 <use figures/631_zeiger_kap.png>
-Package pdftex.def Info: figures/631_zeiger_kap.png  used on input line 399.
+Package pdftex.def Info: figures/631_zeiger_kap.png  used on input line 436.
 (pdftex.def)             Requested size: 53.77544pt x 156.67111pt.
 Package epstopdf Info: Source file: <figures/631_Kapazitiv.eps>
 (epstopdf)                    date: 2019-04-14 08:51:47
 (epstopdf)                    size: 112450 bytes
 (epstopdf)             Output file: <figures/631_Kapazitiv-eps-converted-to.pdf
 >
+(epstopdf)                    date: 2019-04-14 08:53:15
+(epstopdf)                    size: 32418 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/631_Kapazitiv-eps-c
 onverted-to.pdf figures/631_Kapazitiv.eps>
-(epstopdf)             \includegraphics on input line 420.
-runsystem(epstopdf --outfile=figures/631_Kapazitiv-eps-converted-to.pdf figures
-/631_Kapazitiv.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <figures/631_Kapazitiv-eps-converted-to.pdf
->
-(epstopdf)                    date: 2019-04-14 08:53:15
-(epstopdf)                    size: 32418 bytes.
+(epstopdf)             \includegraphics on input line 457.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Kapazitiv-eps-converted-to.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Kapazitiv-eps-converted-to.pdf, id=375, 963.6pt x 466.74374pt>
+<figures/631_Kapazitiv-eps-converted-to.pdf, id=383, 963.6pt x 466.74374pt>
 File: figures/631_Kapazitiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Kapazitiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Kapazitiv-eps-converted-to.pdf  used on in
-put line 420.
+put line 457.
 (pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
 [19 <./figures/SM_Insel_1PH_C.pdf
 
@@ -1038,18 +1028,18 @@ pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_C.pdf): PDF inclusion
 ed.
 > <./figures/631_zeiger_kap.png> <./figures/631_Kapazitiv-eps-converted-to.pdf>
 ] [20]
-<figures/SM_Insel_1PH_L.pdf, id=421, 402.54388pt x 105.2733pt>
+<figures/SM_Insel_1PH_L.pdf, id=429, 402.54388pt x 105.2733pt>
 File: figures/SM_Insel_1PH_L.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_L.pdf>
-Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 446.
+Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 482.
 (pdftex.def)             Requested size: 233.03pt x 60.94289pt.
-<figures/631_zeiger_ind.png, id=422, 217.5628pt x 400.49625pt>
+<figures/631_zeiger_ind.png, id=430, 217.5628pt x 400.49625pt>
 File: figures/631_zeiger_ind.png Graphic file (type png)
 <use figures/631_zeiger_ind.png>
-Package pdftex.def Info: figures/631_zeiger_ind.png  used on input line 452.
+Package pdftex.def Info: figures/631_zeiger_ind.png  used on input line 488.
 (pdftex.def)             Requested size: 64.53093pt x 118.79314pt.
 
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 444--456
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 480--492
 [][] [] 
  []
 
@@ -1062,17 +1052,17 @@ Package epstopdf Info: Source file: <figures/631_Induktiv.eps>
 (epstopdf)                    size: 31932 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/631_Induktiv-eps-co
 nverted-to.pdf figures/631_Induktiv.eps>
-(epstopdf)             \includegraphics on input line 475.
+(epstopdf)             \includegraphics on input line 511.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Induktiv-eps-converted-to.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Induktiv-eps-converted-to.pdf, id=423, 963.6pt x 466.74374pt>
+<figures/631_Induktiv-eps-converted-to.pdf, id=431, 963.6pt x 466.74374pt>
 File: figures/631_Induktiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Induktiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Induktiv-eps-converted-to.pdf  used on inp
-ut line 475.
+ut line 511.
 (pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
 [21 <./figures/SM_Insel_1PH_L.pdf
 
@@ -1101,33 +1091,34 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 16740 strings out of 492969
- 310821 string characters out of 3127030
+ 16751 strings out of 492969
+ 310959 string characters out of 3127030
  583321 words of memory out of 3000000
- 20216 multiletter control sequences out of 15000+200000
+ 20224 multiletter control sequences out of 15000+200000
  14995 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,20n,86p,9112b,710s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Theo/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Theo/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Theo/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
-rs/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr17.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Theo/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Theo/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
-/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
-b>
-Output written on main.pdf (25 pages, 753332 bytes).
+s/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Theo/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Theo/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Theo/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Us
+ers/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Theo/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Theo/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Theo/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
+/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb>
+Output written on main.pdf (25 pages, 764542 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
+ 555 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
  18782 words of extra memory for PDF output out of 20736 (max. 10000000)
 

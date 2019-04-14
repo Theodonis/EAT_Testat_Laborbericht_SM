@@ -146,7 +146,7 @@ Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\D
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          width=0.80\textwidth]{versuch_Uph_I_err.pdf}
     \caption{Phasenspannung in Abhängigkeit des Erregerstroms}
-    \label{fig:abb1}
+    \label{fig:Leerlauf}
 \end{figure}
 
 
@@ -372,6 +372,46 @@ Zuerst wurde die SM in den Leerlaufbetrieb versetzt um die Polradspannung bei ei
 
 \vspace{0.5cm}
 
+\begin{tabular}{|l|l|l|l|l|l|}
+ \hline
+ \rowcolor[gray]{.8} \textbf{Ermittlungsart} & \textbf{$U_1 [V]$}&   \textbf{$I_1 [A]$} &\textbf{$\Delta U [V]$} & \textbf{$U_p [V]$} & \textbf{$\varphi$}\\
+ \hline
+ Polradmessung mit Gleichungen~\ref{eq:Polradmessung}& $223$ & $4.85$ & 23.4& 224& $6\degree$ \\
+\hline
+ $\Delta U$ aus $L_q$ mit Gleichungen~\ref{eq:deltaU} & $223$ & $4.85$ & 62.5& 231.6& $15.6\degree$ \\
+\hline
+ $U_p$ aus Abbildung \ref{fig:Leerlauf} mit Gleichungen~\ref{eq:Up} & $223$ & $4.85$ & 53& 229.2&  $13.4\degree$\\
+\hline
+\end{tabular}
+
+Die Unterschiede sind auf die vernachlässigten ohmschen Verluste in den Maschinenwicklung zurück zu führen. Das bedeutet, das $\delta U$ in nicht exakt $90\degree$ voreilend zu $I_1$ ist.
+
+\begin{equation} \label{eq:Polradmessung}
+\begin{aligned}
+ U_p = \frac{U_1}{cos(\varphi)} = 224 V \\
+ \Delta U = \sqrt{U_p^2-U_1^2} = 23.4 V 
+\end{aligned}
+\end{equation} 
+
+\begin{equation} \label{eq:deltaU}
+\begin{aligned} 
+	\Delta U = 2*\pi*f*L_q*I_1 = 62.5 V \\
+	U_p = \sqrt{\Delta U^2+U_1^2} = 231.6 V \\
+	\varphi = arccos(\frac{U_1}{U_p} = 15.6\degree)
+\end{aligned}
+\end{equation} 
+
+\begin{equation} \label{eq:Up}
+\begin{aligned} 
+	U_p = \frac{397 V}{\sqrt{3}} = 229.2 V \\
+	\Delta U = \sqrt{U_p^2-U_1^2} = 53 V \\
+	\varphi = arccos(\frac{U_1}{U_p}) = 13.4\degree
+\end{aligned}
+\end{equation} 
+
+
+
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{631_Ohmsch}
@@ -379,7 +419,7 @@ Zuerst wurde die SM in den Leerlaufbetrieb versetzt um die Polradspannung bei ei
     \label{fig:abb1}
 \end{figure}
 
-\textcolor{red}{Der Polradwinkel stimmt nicht ganz wenn man die Berechnung mit der Querreaktanz usw. durchführt. Zusätzlich noch begründen wiso Querreaktanz relevant ist}
+\textcolor{red}{@Andy: bisch ufs gliche cho? Zusätzlich noch begründen wiso Querreaktanz relevant ist}
 \newpage
 
 
@@ -422,8 +462,7 @@ Zuerst wurde die SM in den Leerlaufbetrieb versetzt um die Polradspannung bei ei
     \label{fig:abb1}
 \end{figure}
 
-An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca. 90 \degree voreilt. Weiter ist die erhöhte Phasenspannung gegenüber der ohmschen Last von der vorangehenden Messung ersichtlich. \textcolor{red}{Legende falsch -> nicht effektivwerte}
-
+An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca. 90 \degree voreilt. Weiter ist die erhöhte Phasenspannung gegenüber der ohmschen Last von der vorangehenden Messung ersichtlich. 
 
 
 
@@ -461,7 +500,7 @@ An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca.
 
 
 \begin{itemize}
-\item \makebox[5cm][l]{Polradwinkel $\varphi$  }            0.6\degree
+\item \makebox[5cm][l]{Polradwinkel $\varphi$  }     0.6\degree
 \item \makebox[5cm][l]{$U_{ph_{eff}}$   }            180 V
 \item \makebox[5cm][l]{$I_{ph_{eff}}$   }            4.8 A
 \end{itemize}
@@ -477,7 +516,7 @@ An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca.
     \label{fig:abb1}
 \end{figure}
 
-Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der Einfluss der Belastungsimpedanz auf die Amplitude der Phasenspannung gut erkennbar. Während sie bei kapazitiver Last zunimmt, sinkt sie bei einer induktiven Belastung. \textcolor{red}{Legende falsch -> nicht effektivwerte}
+Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der Einfluss der Belastungsimpedanz auf die Amplitude der Phasenspannung gut erkennbar. Während sie bei kapazitiver Last zunimmt, sinkt sie bei einer induktiven Belastung. 
 
 
 \newpage
