@@ -31,6 +31,13 @@
 \usepackage{scrlayer-scrpage}
 \usepackage{array,dcolumn}
 \usepackage[pdfpagelabels]{hyperref}
+\setcounter{tocdepth}{4}
+
+\usepackage{bookmark}
+\bookmarksetup{
+  open,
+  numbered
+}
 \usepackage{microtype}
 %\usepackage[babel, german=guillemets]{csquotes} %<<>>
 \usepackage[babel, german=quotes]{csquotes} %,,''
@@ -40,6 +47,7 @@
 \usepackage{subcaption}
 \usepackage{pdfpages}
 \usepackage{gensymb}
+
 
 %Andy's includes:
 \usepackage{tabularx}
@@ -53,7 +61,7 @@
 
 % end of Andy's includes
 \usepackage{subcaption}
-\usepackage{graphicx}
+%\usepackage{graphicx}
 
 \newcommand{\cImage}[2][0.5]{
 	\begin{figure}[h!]
@@ -63,6 +71,7 @@
 }
 \RedeclareSectionCommand[style=section,indent=0pt,font=\usekomafont{partnumber}]{part}
 \renewcommand*{\partformat}{\thepart\enskip}
+
 
   \newcaptionname{ngerman}\equationname{Formel}%
   \newcaptionname{ngerman}\listequationname{Formelverzeichnis}%
@@ -78,7 +87,6 @@
 %% DOKUMENT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-
 
 \selectlanguage{ngerman}
 	\onehalfspacing

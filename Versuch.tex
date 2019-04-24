@@ -112,7 +112,7 @@ Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\D
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          scale = 0.7]{leerlauf}
          \caption[]{Leerlaufbetrieb \footnotemark}
-    \label{fig:abb1}
+    \label{fig:Leerlaufbetrieb}
 \end{figure}
 
 \footnotetext{Aus dem Skript 'Leistungselektronik und elektrische Antriebe' Kapitel 'Drehfeldmaschinen'}
@@ -125,7 +125,7 @@ Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\D
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          scale = 0.6]{leerlauf_schema}
     \caption{Schaltungsaufbau im VZS}
-    \label{fig:abb1}
+    \label{fig:Schaltungsaufbau}
 \end{figure}
 
 
@@ -145,7 +145,7 @@ Da die SM unbelastet ist, fliesst kein Strom $I_1$ durch die Statorwicklung, $\D
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          width=0.80\textwidth]{versuch_Uph_I_err.pdf}
     \caption{Phasenspannung in Abhängigkeit des Erregerstroms}
-    \label{fig:Leerlauf}
+    \label{fig:Leerlaufkennlinie}
 \end{figure}
 
 
@@ -178,7 +178,7 @@ Auch in diesem Aufbau wird die SM mit der Gleichstrommaschine bei der Nenndrehza
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          scale = 0.6]{kurzschluss_schema}
     \caption{Schaltungsaufbau im VZS}
-    \label{fig:abb1}
+    \label{fig:SchaltungsaufbauKurzschlusskennlinie}
 \end{figure}
 
 
@@ -187,8 +187,8 @@ Auch in diesem Aufbau wird die SM mit der Gleichstrommaschine bei der Nenndrehza
     \centering
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          scale = 0.8]{zps_kurzschluss}
-    \caption{Zeigferdiagramm im VZS}
-    \label{fig:abb1}
+    \caption{Zeigerdiagramm im VZS}
+    \label{fig:ZeigerdiagrammKurzschlusskennlinie}
 \end{figure}
 
 
@@ -197,7 +197,7 @@ Auch in diesem Aufbau wird die SM mit der Gleichstrommaschine bei der Nenndrehza
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          width=0.80\textwidth]{versuch_I_ph_I_err.pdf}
     \caption{Phasenstrom in Abhängigkeit des Erregerstroms}
-    \label{fig:abb1}
+    \label{fig:Kurzschlusskennlinie}
 \end{figure}
 
 Auch die Kurzschlusskennlinie verhält sich linear. Der Effektivwert des Phasenstroms nimmt proportional zum Erregerstrom zu.\\
@@ -251,7 +251,7 @@ Zur Ermittlung der Längs -und Querreaktanz wird in diesem Versuch das Schwebeve
         \includegraphics[ %trim=0.5cm 0.5cm 0.5cm 0.5cm,
          scale = 0.45]{Schwebeverfahren}
     \caption{Schaltungsaufbau im VZS}
-    \label{fig:abb1}
+    \label{fig:SchaltungsaufbauSchwebeverfahren}
 \end{figure}
 
 
@@ -263,7 +263,7 @@ Die Phasenspannung am Stator wurde mit dem Variac auf einen Effektivwert von ung
         \includegraphics[ trim=0.5cm 9cm 0.5cm 9cm,
          width=1\textwidth]{schwebeverfahren_U_1.pdf}
     \caption{Phasenspannung $U_1$ resp $U_{ph}$}
-    \label{fig:abb1}
+    \label{fig:PhasenspannungSchwebeverfahren}
 \end{figure}
 
 
@@ -276,7 +276,7 @@ Der zugehörige Phasenstrom:\\
         \includegraphics[% trim=0.5cm 9cm 0.5cm 9cm,
          width=0.8\textwidth]{schwebeverfahren_I_ph.pdf}
     \caption{Phasenstrom $I_1$ resp $I_{ph}$}
-    \label{fig:abb1}
+    \label{fig:PhasenstromSchwebeverfahren}
 \end{figure}
 
 
@@ -327,7 +327,7 @@ Bei diesem Versuch wirkt die Synchronmaschine als Generator im Inselbetrieb. Die
         \includegraphics[ %trim=1cm 16.5cm 7.6cm 5.7cm,clip,
          width=0.8\textwidth]{SM_Inselbetrieb_Uebersicht.pdf}
     \caption{Übersicht SM im Inselbetrieb}
-    \label{fig:abb1}
+    \label{fig:SMInselbetrieb}
 \end{figure}
 \vspace{0.3cm}
 Bei konstantem  Erregerstrom und konstanter Drehzahl wird die Phasenspannung $U_1$, der Phasenstrom $I_1$ und der Polradwinkel $\vartheta$ bei verschiedenen Lasten gemessen. Zum einen werden die Daten bei einer kapazitiven, einer induktiven und einer ohmschen Last jeweils mit $I_{1_{eff}}$ resp. $I_{ph_{eff}}$ = 4.8A gemessen.
@@ -348,13 +348,13 @@ Zuerst wurde die SM in den Leerlaufbetrieb versetzt um die Polradspannung bei ei
 \centering
 \includegraphics[width=\textwidth]{SM_Insel_1PH_R.pdf}
 \subcaption{Schema ohmsche Last im EZS}
-\label{fig:abb1}
+\label{fig:SM_Insel_1PH_R}
 \end{minipage}
 \begin{minipage}[t]{0.4\textwidth}
 \centering
 \includegraphics[width=0.4\textwidth]{631_zeiger_ohmsch}
 \subcaption{Zeigerdiagramm im EZS}
-    \label{fig:abb1}
+    \label{fig:ZeigerR}
 \end{minipage}
 \end{figure}
 
@@ -424,7 +424,7 @@ In der Berechnung wird $L_q$ verwendet, da der Strom $I_1$ bei ohmscher Last ann
     \centering
     \includegraphics[width=\textwidth]{631_Ohmsch}
     \caption{Messung mit dem KO}
-    \label{fig:abb1}
+    \label{fig:U/I_R}
 \end{figure}
 
 \textcolor{red}{@Andy: bisch ufs gliche cho? Zusätzlich noch begründen wiso Querreaktanz relevant ist -> gemacht! Verständlich?\\
@@ -447,13 +447,13 @@ Theo: Auso i glob 10 Tag nach em Versuech! Uaso am letzä Mänti... Iz isch dfra
 \centering
 \includegraphics[width=\textwidth]{SM_Insel_1PH_C.pdf}
 \subcaption{Schema kapazitive Last im EZS}
-\label{fig:abb1}
+\label{fig:SM_Insel_1PH_C}
 \end{minipage}
 \begin{minipage}[t]{0.4\textwidth}
 \centering
 \includegraphics[width=0.3\textwidth]{631_zeiger_kap}
 \subcaption{Zeigerdiagramm im EZS}
-    \label{fig:abb1}
+    \label{fig:ZeigerC}
 \end{minipage}
 \end{figure}
 
@@ -474,7 +474,7 @@ Theo: Auso i glob 10 Tag nach em Versuech! Uaso am letzä Mänti... Iz isch dfra
     \centering
     \includegraphics[width=\textwidth]{631_Kapazitiv}
     \caption{Messung mit dem KO}
-    \label{fig:abb1}
+    \label{fig:U/I_C}
 \end{figure}
 
 An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca. 90 \degree voreilt. Weiter ist die erhöhte Phasenspannung gegenüber der ohmschen Last von der vorangehenden Messung ersichtlich. 
@@ -499,13 +499,13 @@ An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca.
 \centering
 \includegraphics[width=\textwidth]{SM_Insel_1PH_L.pdf}
 \subcaption{Schema induktive Last im EZS}
-\label{fig:abb1}
+\label{fig:SM_Insel_1PH_L}
 \end{minipage}
 \begin{minipage}[t]{0.48\textwidth}
 \centering
 \includegraphics[width=0.3\textwidth]{631_zeiger_ind}
 \subcaption{Zeigerdiagramm im EZS}
-    \label{fig:abb1}
+    \label{fig:ZeigerL}
 \end{minipage}
 \end{figure}
 
@@ -528,7 +528,7 @@ An der Messkurve ist zu erkennen, dass der Phasenstrom der Phasenspannung um ca.
         % width=0.8\textwidth]{631_Bild6_Induktiv.pdf}
 				width=\textwidth]{631_Induktiv}
     \caption{Messung mit dem KO}
-    \label{fig:abb1}
+    \label{fig:U/I_L}
 \end{figure}
 
 Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der Einfluss der Belastungsimpedanz auf die Amplitude der Phasenspannung gut erkennbar. Während sie bei kapazitiver Last zunimmt, sinkt sie bei einer induktiven Belastung. \\
@@ -538,7 +538,7 @@ Die Phasenspannung eilt dem Phasenstrom um 90 \degree voraus. Auch hier ist der 
         \includegraphics[ %trim=1cm 16.5cm 7.6cm 5.7cm, clip,
          width=\textwidth]{631_Bild7_Sternpunkt_MitOhneVerb.pdf}
     \caption{Einfluss Sternpunktbezug}
-    \label{fig:abb1}
+    \label{fig:EinflussSternpunktL}
 \end{figure}
 Bei Verbundenem Sternpunkt ändert sich der Strom $I_1£$ kaum. Die verwendete Last verfügt also über eine gute Symmetrie.
 
@@ -560,7 +560,7 @@ Die Regelung ist im Chopper integriert. \\
     \centering
         \includegraphics[ scale = 0.6]{632}
     \caption{Funktionsschema Spannungsregelung}
-    \label{fig:abb1}
+    \label{fig:shemaSpannungsregler}
 \end{figure}
 
 
@@ -586,7 +586,7 @@ Die SM wurde für die Messung einem induktiven Laststoss ausgesetzt. In der Abbi
         \includegraphics[ %trim=1cm 16.5cm 7.6cm 5.7cm, clip,
          width=\textwidth]{632_U-Regelung.pdf}
     \caption{Messung Spannungsregelung}
-    \label{fig:abb1}
+    \label{fig:MessungSpannungsregler}
 \end{figure}
 
 
@@ -647,7 +647,7 @@ Die SM wurde für die Messung einem induktiven Laststoss ausgesetzt. In der Abbi
     \centering
         \includegraphics[width=\textwidth]{SM_Netzbetrieb_Uebersicht.pdf}
     \caption{Übersicht SM am Netz}
-    \label{fig:abb1}
+    \label{fig:SMNetz}
 \end{figure}\vspace{0.3cm}
  Bei diesem Versuch läuft die Synchronmaschine direkt am Netz. Dazu muss sie zuerst synchronisiert werden. 
 
@@ -658,7 +658,7 @@ Der Asynchronmotor mit einem Widerstand im Rottorkreis Treibt die Welle auf rund
     \centering
         \includegraphics[width=0.6\textwidth]{SM_Synchronisation.pdf}
     \caption{Darstellung der Synchronisation}
-    \label{fig:abb1}
+    \label{fig:Synchronisation}
 \end{figure}\vspace{0.3cm}
 \subsubsection{Verbinden des Nulleiter}
 Bei verbundenem Nulleiter kann man gut die Abweichung Zwischen der Netzspannung und der Synchronmaschinenausgangsspannung erkennen. Die Unterschiede entstehen, weil die Maschine nicht absolut symmetrisch gewickelt ist. Am deutlichsten zeigt sich der Anteil einer dritten Harmonischen im Strom der Sternpunktverbindung. Im Gegensatz dazu verläuft der Phasenstrom ohne Sternpunktverbindung nahezu sinusförmig.
@@ -670,14 +670,14 @@ Bei verbundenem Nulleiter kann man gut die Abweichung Zwischen der Netzspannung 
 \includegraphics[trim=0cm 5cm 0cm 5cm, clip,
 width=\textwidth]{641_Bild5_PhasenstromBeiSternpunktverbindung.pdf}
 \subcaption{Phasenstrom}
-\label{fig:abb1}
+\label{fig:PhasenstromSternpuntkverbunden}
 \end{minipage}
 \begin{minipage}[t]{0.49\textwidth}
 \centering
 \includegraphics[trim=0cm 5cm 0cm 5cm, clip,
 width=\textwidth]{641_Bild4_Nulleiterstrom}
 \subcaption{Strom in der Sternpunktverbindung}
-    \label{fig:abb1}
+    \label{fig:SternstromVerbunden}
 \end{minipage}
 \caption{Strom und Spannung bei verbundenen Sternpunkten}
 \end{figure}
@@ -694,7 +694,7 @@ In nächsten Versuch läuft die Asynchronmaschine als Dämpferwicklung mit. Sie 
     \centering
     \includegraphics[width=0.8\textwidth]{641_Bild2_LastabwurfKurzgeschlossen}
     \caption{Rotorstrom der ASM bei kurzgeschlossenem Rotor}
-    \label{fig:abb1}
+    \label{fig:RotorstromUnGedampft}
 \end{figure}\vspace{0.3cm}
 Deutlich ist sichtbar, wie der Strom bei einem Lastabwurf kurzzeitig ansteigt und sich dann schnell wieder um 0 einpändelt. Anders sieht es aus nach der Reduktion der Dämpfung durch einen Widerstand am Rotor der ASM. 
 
@@ -703,7 +703,7 @@ Deutlich ist sichtbar, wie der Strom bei einem Lastabwurf kurzzeitig ansteigt un
     \centering
 		\includegraphics[width=0.8\textwidth]{641_Bild3_LastabwurfWiderstand}
     \caption{Rotorstrom der ASM bei Widerstand am Rotor}
-    \label{fig:abb1}
+    \label{fig:RotorstromGedampft}
 \end{figure}\vspace{0.3cm}
 Die im Strom sichtbaren Schwingungen sind auch gut hör- und spürbar.
 
