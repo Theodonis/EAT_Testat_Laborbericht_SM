@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 13:46
 entering extended mode
 **./main.tex
 (main.tex
@@ -1151,35 +1151,39 @@ Package pdftex.def Info: figures/SM_Synchronisation.pdf  used on input line 659
 .
 (pdftex.def)             Requested size: 268.8813pt x 147.24266pt.
  [27 <./figures/SM_Netzbetrieb_Uebersicht.pdf>]
-<figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf, id=546, 483.08691pt 
-x 220.56102pt>
+<figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf, id=546, 889.68384pt 
+x 628.61853pt>
 File: figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf Graphic file (ty
 pe pdf)
 <use figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf>
 Package pdftex.def Info: figures/641_Bild5_PhasenstromBeiSternpunktverbindung.p
-df  used on input line 670.
-(pdftex.def)             Requested size: 219.58662pt x 100.25444pt.
-<figures/641_Bild4_Nulleiterstrom.pdf, id=547, 492.84636pt x 222.5123pt>
+df  used on input line 671.
+(pdftex.def)             Requested size: 219.58662pt x 84.92519pt.
+<figures/641_Bild4_Nulleiterstrom.pdf, id=548, 844.83629pt x 597.432pt>
 File: figures/641_Bild4_Nulleiterstrom.pdf Graphic file (type pdf)
 <use figures/641_Bild4_Nulleiterstrom.pdf>
 Package pdftex.def Info: figures/641_Bild4_Nulleiterstrom.pdf  used on input li
-ne 676.
-(pdftex.def)             Requested size: 219.58662pt x 99.13818pt.
-<figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=548, 487.8747pt x 219.2963
+ne 678.
+(pdftex.def)             Requested size: 219.58662pt x 81.32936pt.
+<figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=550, 487.8747pt x 219.2963
 pt>
 File: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf Graphic file (type pdf)
 <use figures/641_Bild2_LastabwurfKurzgeschlossen.pdf>
 Package pdftex.def Info: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf  used 
-on input line 693.
+on input line 695.
 (pdftex.def)             Requested size: 358.50612pt x 161.15573pt.
- [28 <./figures/SM_Synchronisation.pdf> <./figures/641_Bild5_PhasenstromBeiSter
-npunktverbindung.pdf> <./figures/641_Bild4_Nulleiterstrom.pdf>]
-<figures/641_Bild3_LastabwurfWiderstand.pdf, id=577, 490.89418pt x 212.75385pt>
+ [28 <./figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf> <./figures/64
+1_Bild4_Nulleiterstrom.pdf> <./figures/SM_Synchronisation.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/SM_Synchronisation.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>]
+<figures/641_Bild3_LastabwurfWiderstand.pdf, id=573, 490.89418pt x 212.75385pt>
 
 File: figures/641_Bild3_LastabwurfWiderstand.pdf Graphic file (type pdf)
 <use figures/641_Bild3_LastabwurfWiderstand.pdf>
 Package pdftex.def Info: figures/641_Bild3_LastabwurfWiderstand.pdf  used on in
-put line 702.
+put line 704.
 (pdftex.def)             Requested size: 358.50612pt x 155.38042pt.
  [29 <./figures/641_Bild2_LastabwurfKurzgeschlossen.pdf> <./figures/641_Bild3_L
 astabwurfWiderstand.pdf>] [30]) [31] (Schlussteil.tex
@@ -1228,9 +1232,9 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
 /Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb>
-Output written on main.pdf (32 pages, 1752772 bytes).
+Output written on main.pdf (32 pages, 1955192 bytes).
 PDF statistics:
- 687 PDF objects out of 1000 (max. 8388607)
+ 683 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)
- 20901 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 20913 words of extra memory for PDF output out of 24883 (max. 10000000)
 
