@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 10:35
 entering extended mode
 **./main.tex
 (main.tex
@@ -973,19 +973,24 @@ Package pdftex.def Info: figures/schwebeverfahren_I_ph.pdf  used on input line
 (pdftex.def)             Requested size: 358.50612pt x 194.26474pt.
 
 [14 <./figures/schwebeverfahren_I_ph.pdf>] [15]
-<figures/SM_Inselbetrieb_Uebersicht.pdf, id=320, 408.8484pt x 162.00864pt>
+<figures/SM_Inselbetrieb_Uebersicht.pdf, id=320, 353.40028pt x 180.675pt>
 File: figures/SM_Inselbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Inselbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Inselbetrieb_Uebersicht.pdf  used on input 
 line 329.
-(pdftex.def)             Requested size: 358.50612pt x -1025.8569pt.
- [16 <./figures/SM_Inselbetrieb_Uebersicht.pdf>]
-<figures/SM_Insel_1PH_R.pdf, id=330, 289.08pt x 107.4414pt>
+(pdftex.def)             Requested size: 358.50612pt x 183.29633pt.
+ [16 <./figures/SM_Inselbetrieb_Uebersicht.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/SM_Inselbetrieb_Uebersicht.pdf): P
+DF inclusion: invalid other resource which is no dict (key 'ProcSets', type <ar
+ray>); ignored.
+>]
+<figures/SM_Insel_1PH_R.pdf, id=345, 289.08pt x 107.4414pt>
 File: figures/SM_Insel_1PH_R.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_R.pdf>
 Package pdftex.def Info: figures/SM_Insel_1PH_R.pdf  used on input line 350.
 (pdftex.def)             Requested size: 201.65755pt x 74.94943pt.
-<figures/631_zeiger_ohmsch.png, id=331, 221.32687pt x 378.66469pt>
+<figures/631_zeiger_ohmsch.png, id=346, 221.32687pt x 378.66469pt>
 File: figures/631_zeiger_ohmsch.png Graphic file (type png)
 <use figures/631_zeiger_ohmsch.png>
 Package pdftex.def Info: figures/631_zeiger_ohmsch.png  used on input line 356.
@@ -1013,19 +1018,19 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Ohmsch-eps-converted-to.pdf): 
 PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Ohmsch-eps-converted-to.pdf, id=370, 963.6pt x 466.74374pt>
+<figures/631_Ohmsch-eps-converted-to.pdf, id=385, 963.6pt x 466.74374pt>
 File: figures/631_Ohmsch-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Ohmsch-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Ohmsch-eps-converted-to.pdf  used on input
  line 426.
 (pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
 [18] [19 <./figures/631_Ohmsch-eps-converted-to.pdf>] [20]
-<figures/SM_Insel_1PH_C.pdf, id=397, 409.53pt x 105.2733pt>
+<figures/SM_Insel_1PH_C.pdf, id=412, 409.53pt x 105.2733pt>
 File: figures/SM_Insel_1PH_C.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_C.pdf>
 Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 449.
 (pdftex.def)             Requested size: 246.47339pt x 63.35883pt.
-<figures/631_zeiger_kap.png, id=398, 173.89969pt x 506.6428pt>
+<figures/631_zeiger_kap.png, id=413, 173.89969pt x 506.6428pt>
 File: figures/631_zeiger_kap.png Graphic file (type png)
 <use figures/631_zeiger_kap.png>
 Package pdftex.def Info: figures/631_zeiger_kap.png  used on input line 455.
@@ -1045,7 +1050,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Kapazitiv-eps-converted-to.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Kapazitiv-eps-converted-to.pdf, id=399, 963.6pt x 466.74374pt>
+<figures/631_Kapazitiv-eps-converted-to.pdf, id=414, 963.6pt x 466.74374pt>
 File: figures/631_Kapazitiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Kapazitiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Kapazitiv-eps-converted-to.pdf  used on in
@@ -1058,12 +1063,12 @@ pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_C.pdf): PDF inclusion
 ed.
 > <./figures/631_zeiger_kap.png> <./figures/631_Kapazitiv-eps-converted-to.pdf>
 ] [22]
-<figures/SM_Insel_1PH_L.pdf, id=444, 402.54388pt x 105.2733pt>
+<figures/SM_Insel_1PH_L.pdf, id=459, 402.54388pt x 105.2733pt>
 File: figures/SM_Insel_1PH_L.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_L.pdf>
 Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 501.
 (pdftex.def)             Requested size: 233.03pt x 60.94289pt.
-<figures/631_zeiger_ind.png, id=445, 217.5628pt x 400.49625pt>
+<figures/631_zeiger_ind.png, id=460, 217.5628pt x 400.49625pt>
 File: figures/631_zeiger_ind.png Graphic file (type png)
 <use figures/631_zeiger_ind.png>
 Package pdftex.def Info: figures/631_zeiger_ind.png  used on input line 507.
@@ -1088,7 +1093,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Induktiv-eps-converted-to.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Induktiv-eps-converted-to.pdf, id=446, 963.6pt x 466.74374pt>
+<figures/631_Induktiv-eps-converted-to.pdf, id=461, 963.6pt x 466.74374pt>
 File: figures/631_Induktiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Induktiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Induktiv-eps-converted-to.pdf  used on inp
@@ -1100,7 +1105,7 @@ pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_L.pdf): PDF inclusion
 : invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
 ed.
 > <./figures/631_zeiger_ind.png> <./figures/631_Induktiv-eps-converted-to.pdf>]
-<figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf, id=487, 495.26682pt x 179.873pt>
+<figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf, id=502, 495.26682pt x 179.873pt>
 
 File: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf Graphic file (type pdf)
 <use figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>
@@ -1108,33 +1113,33 @@ Package pdftex.def Info: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf  used on
 input line 542.
 (pdftex.def)             Requested size: 448.13095pt x 162.75699pt.
 [24 <./figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>]
-<figures/632.png, id=503, 703.12688pt x 335.75438pt>
+<figures/632.png, id=518, 703.12688pt x 335.75438pt>
 File: figures/632.png Graphic file (type png)
 <use figures/632.png>
 Package pdftex.def Info: figures/632.png  used on input line 564.
 (pdftex.def)             Requested size: 421.87938pt x 201.45418pt.
  [25 <./figures/632.png>]
-<figures/632_U-Regelung.pdf, id=511, 490.1241pt x 219.43883pt>
+<figures/632_U-Regelung.pdf, id=526, 490.1241pt x 219.43883pt>
 File: figures/632_U-Regelung.pdf Graphic file (type pdf)
 <use figures/632_U-Regelung.pdf>
 Package pdftex.def Info: figures/632_U-Regelung.pdf  used on input line 590.
 (pdftex.def)             Requested size: 448.13095pt x 200.64726pt.
 
 [26 <./figures/632_U-Regelung.pdf>]
-<figures/SM_Netzbetrieb_Uebersicht.pdf, id=527, 408.8484pt x 162.00864pt>
+<figures/SM_Netzbetrieb_Uebersicht.pdf, id=542, 408.8484pt x 162.00864pt>
 File: figures/SM_Netzbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Netzbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Netzbetrieb_Uebersicht.pdf  used on input l
 ine 651.
 (pdftex.def)             Requested size: 448.13095pt x 177.5747pt.
-<figures/SM_Synchronisation.pdf, id=528, 295.85532pt x 162.00864pt>
+<figures/SM_Synchronisation.pdf, id=543, 295.85532pt x 162.00864pt>
 File: figures/SM_Synchronisation.pdf Graphic file (type pdf)
 <use figures/SM_Synchronisation.pdf>
 Package pdftex.def Info: figures/SM_Synchronisation.pdf  used on input line 662
 .
 (pdftex.def)             Requested size: 268.8813pt x 147.24266pt.
  [27 <./figures/SM_Netzbetrieb_Uebersicht.pdf>]
-<figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=536, 487.8747pt x 219.2963
+<figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=551, 487.8747pt x 219.2963
 pt>
 File: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf Graphic file (type pdf)
 <use figures/641_Bild2_LastabwurfKurzgeschlossen.pdf>
@@ -1142,7 +1147,7 @@ Package pdftex.def Info: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf  used
 on input line 680.
 (pdftex.def)             Requested size: 358.50612pt x 161.15573pt.
  [28 <./figures/SM_Synchronisation.pdf>]
-<figures/641_Bild3_LastabwurfWiderstand.pdf, id=545, 490.89418pt x 212.75385pt>
+<figures/641_Bild3_LastabwurfWiderstand.pdf, id=560, 490.89418pt x 212.75385pt>
 
 File: figures/641_Bild3_LastabwurfWiderstand.pdf Graphic file (type pdf)
 <use figures/641_Bild3_LastabwurfWiderstand.pdf>
@@ -1197,9 +1202,9 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
 /Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb>
-Output written on main.pdf (32 pages, 1485947 bytes).
+Output written on main.pdf (32 pages, 1523670 bytes).
 PDF statistics:
- 655 PDF objects out of 1000 (max. 8388607)
+ 670 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
- 18857 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 18851 words of extra memory for PDF output out of 20736 (max. 10000000)
 
