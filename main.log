@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 11:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -1110,19 +1110,22 @@ ed.
 File: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf Graphic file (type pdf)
 <use figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>
 Package pdftex.def Info: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf  used on 
-input line 542.
+input line 540.
 (pdftex.def)             Requested size: 448.13095pt x 162.75699pt.
+
+LaTeX Warning: Command \textsterling invalid in math mode on input line 544.
+
 [24 <./figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>]
 <figures/632.png, id=518, 703.12688pt x 335.75438pt>
 File: figures/632.png Graphic file (type png)
 <use figures/632.png>
-Package pdftex.def Info: figures/632.png  used on input line 564.
+Package pdftex.def Info: figures/632.png  used on input line 562.
 (pdftex.def)             Requested size: 421.87938pt x 201.45418pt.
  [25 <./figures/632.png>]
 <figures/632_U-Regelung.pdf, id=526, 490.1241pt x 219.43883pt>
 File: figures/632_U-Regelung.pdf Graphic file (type pdf)
 <use figures/632_U-Regelung.pdf>
-Package pdftex.def Info: figures/632_U-Regelung.pdf  used on input line 590.
+Package pdftex.def Info: figures/632_U-Regelung.pdf  used on input line 588.
 (pdftex.def)             Requested size: 448.13095pt x 200.64726pt.
 
 [26 <./figures/632_U-Regelung.pdf>]
@@ -1130,12 +1133,12 @@ Package pdftex.def Info: figures/632_U-Regelung.pdf  used on input line 590.
 File: figures/SM_Netzbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Netzbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Netzbetrieb_Uebersicht.pdf  used on input l
-ine 651.
+ine 649.
 (pdftex.def)             Requested size: 448.13095pt x 177.5747pt.
 <figures/SM_Synchronisation.pdf, id=543, 295.85532pt x 162.00864pt>
 File: figures/SM_Synchronisation.pdf Graphic file (type pdf)
 <use figures/SM_Synchronisation.pdf>
-Package pdftex.def Info: figures/SM_Synchronisation.pdf  used on input line 662
+Package pdftex.def Info: figures/SM_Synchronisation.pdf  used on input line 660
 .
 (pdftex.def)             Requested size: 268.8813pt x 147.24266pt.
  [27 <./figures/SM_Netzbetrieb_Uebersicht.pdf>]
@@ -1144,7 +1147,7 @@ pt>
 File: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf Graphic file (type pdf)
 <use figures/641_Bild2_LastabwurfKurzgeschlossen.pdf>
 Package pdftex.def Info: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf  used 
-on input line 680.
+on input line 678.
 (pdftex.def)             Requested size: 358.50612pt x 161.15573pt.
  [28 <./figures/SM_Synchronisation.pdf>]
 <figures/641_Bild3_LastabwurfWiderstand.pdf, id=560, 490.89418pt x 212.75385pt>
@@ -1152,7 +1155,7 @@ on input line 680.
 File: figures/641_Bild3_LastabwurfWiderstand.pdf Graphic file (type pdf)
 <use figures/641_Bild3_LastabwurfWiderstand.pdf>
 Package pdftex.def Info: figures/641_Bild3_LastabwurfWiderstand.pdf  used on in
-put line 689.
+put line 687.
 (pdftex.def)             Requested size: 358.50612pt x 155.38042pt.
  [29 <./figures/641_Bild2_LastabwurfKurzgeschlossen.pdf> <./figures/641_Bild3_L
 astabwurfWiderstand.pdf>] [30])
@@ -1177,11 +1180,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 16966 strings out of 492969
- 315286 string characters out of 3127030
+ 16973 strings out of 492969
+ 315362 string characters out of 3127030
  587913 words of memory out of 3000000
- 20403 multiletter control sequences out of 15000+200000
- 15093 words of font info for 74 fonts, out of 3000000 for 9000
+ 20405 multiletter control sequences out of 15000+200000
+ 15502 words of font info for 77 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,75p,9112b,710s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
@@ -1202,9 +1205,9 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
 /Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb>
-Output written on main.pdf (32 pages, 1523334 bytes).
+Output written on main.pdf (32 pages, 1523556 bytes).
 PDF statistics:
  670 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
- 18851 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 20899 words of extra memory for PDF output out of 24883 (max. 10000000)
 
