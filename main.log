@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  24 APR 2019 10:58
 entering extended mode
 **./main.tex
 (main.tex
@@ -1177,11 +1177,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 16968 strings out of 492969
- 315300 string characters out of 3127030
+ 16966 strings out of 492969
+ 315286 string characters out of 3127030
  587913 words of memory out of 3000000
  20403 multiletter control sequences out of 15000+200000
- 15142 words of font info for 75 fonts, out of 3000000 for 9000
+ 15093 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,75p,9112b,710s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
@@ -1202,7 +1202,7 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
 /Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb>
-Output written on main.pdf (32 pages, 1523670 bytes).
+Output written on main.pdf (32 pages, 1523334 bytes).
 PDF statistics:
  670 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
