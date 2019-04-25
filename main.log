@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  25 APR 2019 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  25 APR 2019 10:46
 entering extended mode
 **./main.tex
 (main.tex
@@ -790,36 +790,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--13
  []
 
 ) [4] (Versuch.tex [5] [6] [7]
-<figures/leerlauf.png, id=109, 163.3603pt x 167.12437pt>
+<figures/leerlauf.png, id=110, 163.3603pt x 167.12437pt>
 File: figures/leerlauf.png Graphic file (type png)
 <use figures/leerlauf.png>
 Package pdftex.def Info: figures/leerlauf.png  used on input line 113.
 (pdftex.def)             Requested size: 114.35143pt x 116.98625pt.
-<figures/leerlauf_schema.png, id=113, 641.39626pt x 216.05719pt>
+<figures/leerlauf_schema.png, id=114, 641.39626pt x 216.05719pt>
 File: figures/leerlauf_schema.png Graphic file (type png)
 <use figures/leerlauf_schema.png>
 Package pdftex.def Info: figures/leerlauf_schema.png  used on input line 126.
 (pdftex.def)             Requested size: 384.84071pt x 129.6353pt.
  [8 <./figures/leerlauf.png> <./figures/leerlauf_schema.png>]
-<figures/versuch_Uph_I_err.pdf, id=126, 844.95674pt x 597.432pt>
+<figures/versuch_Uph_I_err.pdf, id=127, 844.95674pt x 597.432pt>
 File: figures/versuch_Uph_I_err.pdf Graphic file (type pdf)
 <use figures/versuch_Uph_I_err.pdf>
 Package pdftex.def Info: figures/versuch_Uph_I_err.pdf  used on input line 146.
 
 (pdftex.def)             Requested size: 358.50612pt x 253.48134pt.
  [9 <./figures/versuch_Uph_I_err.pdf>]
-<figures/kurzschluss_schema.png, id=138, 671.50874pt x 231.11343pt>
+<figures/kurzschluss_schema.png, id=139, 671.50874pt x 231.11343pt>
 File: figures/kurzschluss_schema.png Graphic file (type png)
 <use figures/kurzschluss_schema.png>
 Package pdftex.def Info: figures/kurzschluss_schema.png  used on input line 179
 .
 (pdftex.def)             Requested size: 402.90836pt x 138.66913pt.
-<figures/zps_kurzschluss.png, id=139, 91.09032pt x 165.61874pt>
+<figures/zps_kurzschluss.png, id=140, 91.09032pt x 165.61874pt>
 File: figures/zps_kurzschluss.png Graphic file (type png)
 <use figures/zps_kurzschluss.png>
 Package pdftex.def Info: figures/zps_kurzschluss.png  used on input line 189.
 (pdftex.def)             Requested size: 72.87233pt x 132.49516pt.
-<figures/versuch_I_ph_I_err.pdf, id=140, 491.5709pt x 284.59323pt>
+<figures/versuch_I_ph_I_err.pdf, id=141, 491.5709pt x 284.59323pt>
 File: figures/versuch_I_ph_I_err.pdf Graphic file (type pdf)
 <use figures/versuch_I_ph_I_err.pdf>
 Package pdftex.def Info: figures/versuch_I_ph_I_err.pdf  used on input line 198
@@ -848,7 +848,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 231.
 
 [12]
-<figures/Schwebeverfahren.png, id=171, 825.0825pt x 306.39468pt>
+<figures/Schwebeverfahren.png, id=172, 825.0825pt x 306.39468pt>
 File: figures/Schwebeverfahren.png Graphic file (type png)
 <use figures/Schwebeverfahren.png>
 Package pdftex.def Info: figures/Schwebeverfahren.png  used on input line 252.
@@ -857,14 +857,14 @@ Package pdftex.def Info: figures/Schwebeverfahren.png  used on input line 252.
 
 pdfTeX warning: pdflatex.exe (file ./figures/schwebeverfahren_U_1.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/schwebeverfahren_U_1.pdf, id=172, 614.295pt x 794.97pt>
+<figures/schwebeverfahren_U_1.pdf, id=173, 614.295pt x 794.97pt>
 File: figures/schwebeverfahren_U_1.pdf Graphic file (type pdf)
 <use figures/schwebeverfahren_U_1.pdf>
 Package pdftex.def Info: figures/schwebeverfahren_U_1.pdf  used on input line 2
 64.
 (pdftex.def)             Requested size: 448.13095pt x 216.34828pt.
 [13 <./figures/Schwebeverfahren.png> <./figures/schwebeverfahren_U_1.pdf>]
-<figures/schwebeverfahren_I_ph.pdf, id=188, 500.19502pt x 271.0416pt>
+<figures/schwebeverfahren_I_ph.pdf, id=189, 500.19502pt x 271.0416pt>
 File: figures/schwebeverfahren_I_ph.pdf Graphic file (type pdf)
 <use figures/schwebeverfahren_I_ph.pdf>
 Package pdftex.def Info: figures/schwebeverfahren_I_ph.pdf  used on input line 
@@ -872,18 +872,18 @@ Package pdftex.def Info: figures/schwebeverfahren_I_ph.pdf  used on input line
 (pdftex.def)             Requested size: 358.50612pt x 194.26474pt.
 
 [14 <./figures/schwebeverfahren_I_ph.pdf>] [15]
-<figures/SM_Inselbetrieb_Uebersicht.pdf, id=209, 353.40028pt x 180.675pt>
+<figures/SM_Inselbetrieb_Uebersicht.pdf, id=210, 353.40028pt x 180.675pt>
 File: figures/SM_Inselbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Inselbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Inselbetrieb_Uebersicht.pdf  used on input 
 line 328.
 (pdftex.def)             Requested size: 358.50612pt x 183.29633pt.
-<figures/SM_Insel_1PH_R.pdf, id=210, 289.08pt x 107.4414pt>
+<figures/SM_Insel_1PH_R.pdf, id=211, 289.08pt x 107.4414pt>
 File: figures/SM_Insel_1PH_R.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_R.pdf>
 Package pdftex.def Info: figures/SM_Insel_1PH_R.pdf  used on input line 349.
 (pdftex.def)             Requested size: 201.65755pt x 74.94943pt.
-<figures/631_zeiger_ohmsch.png, id=211, 221.32687pt x 378.66469pt>
+<figures/631_zeiger_ohmsch.png, id=212, 221.32687pt x 378.66469pt>
 File: figures/631_zeiger_ohmsch.png Graphic file (type png)
 <use figures/631_zeiger_ohmsch.png>
 Package pdftex.def Info: figures/631_zeiger_ohmsch.png  used on input line 355.
@@ -917,18 +917,18 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Ohmsch-eps-converted-to.pdf): 
 PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Ohmsch-eps-converted-to.pdf, id=276, 963.6pt x 466.74374pt>
+<figures/631_Ohmsch-eps-converted-to.pdf, id=277, 963.6pt x 466.74374pt>
 File: figures/631_Ohmsch-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Ohmsch-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Ohmsch-eps-converted-to.pdf  used on input
  line 424.
 (pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
-<figures/SM_Insel_1PH_C.pdf, id=277, 409.53pt x 105.2733pt>
+<figures/SM_Insel_1PH_C.pdf, id=278, 409.53pt x 105.2733pt>
 File: figures/SM_Insel_1PH_C.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_C.pdf>
 Package pdftex.def Info: figures/SM_Insel_1PH_C.pdf  used on input line 447.
 (pdftex.def)             Requested size: 291.28238pt x 74.8811pt.
-<figures/631_zeiger_kap.png, id=278, 173.89969pt x 506.6428pt>
+<figures/631_zeiger_kap.png, id=279, 173.89969pt x 506.6428pt>
 File: figures/631_zeiger_kap.png Graphic file (type png)
 <use figures/631_zeiger_kap.png>
 Package pdftex.def Info: figures/631_zeiger_kap.png  used on input line 453.
@@ -949,7 +949,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Kapazitiv-eps-converted-to.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Kapazitiv-eps-converted-to.pdf, id=294, 963.6pt x 466.74374pt>
+<figures/631_Kapazitiv-eps-converted-to.pdf, id=295, 963.6pt x 466.74374pt>
 File: figures/631_Kapazitiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Kapazitiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Kapazitiv-eps-converted-to.pdf  used on in
@@ -962,12 +962,12 @@ pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_C.pdf): PDF inclusion
 ed.
 > <./figures/631_zeiger_kap.png> <./figures/631_Kapazitiv-eps-converted-to.pdf>
 ]
-<figures/SM_Insel_1PH_L.pdf, id=336, 402.54388pt x 105.2733pt>
+<figures/SM_Insel_1PH_L.pdf, id=337, 402.54388pt x 105.2733pt>
 File: figures/SM_Insel_1PH_L.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_L.pdf>
 Package pdftex.def Info: figures/SM_Insel_1PH_L.pdf  used on input line 499.
 (pdftex.def)             Requested size: 291.28238pt x 76.17741pt.
-<figures/631_zeiger_ind.png, id=337, 217.5628pt x 400.49625pt>
+<figures/631_zeiger_ind.png, id=338, 217.5628pt x 400.49625pt>
 File: figures/631_zeiger_ind.png Graphic file (type png)
 <use figures/631_zeiger_ind.png>
 Package pdftex.def Info: figures/631_zeiger_ind.png  used on input line 505.
@@ -987,13 +987,13 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figures/631_Induktiv-eps-converted-to.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/631_Induktiv-eps-converted-to.pdf, id=338, 963.6pt x 466.74374pt>
+<figures/631_Induktiv-eps-converted-to.pdf, id=339, 963.6pt x 466.74374pt>
 File: figures/631_Induktiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Induktiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Induktiv-eps-converted-to.pdf  used on inp
 ut line 528.
 (pdftex.def)             Requested size: 403.31511pt x 195.35445pt.
-<figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf, id=339, 495.26682pt x 179.873pt>
+<figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf, id=340, 495.26682pt x 179.873pt>
 
 File: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf Graphic file (type pdf)
 <use figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>
@@ -1006,37 +1006,34 @@ pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_L.pdf): PDF inclusion
 : invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
 ed.
 > <./figures/631_zeiger_ind.png> <./figures/631_Induktiv-eps-converted-to.pdf>]
-
-LaTeX Warning: Command \textsterling invalid in math mode on input line 542.
-
 [21 <./figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>]
-<figures/632.png, id=395, 703.12688pt x 335.75438pt>
+<figures/632.png, id=396, 703.12688pt x 335.75438pt>
 File: figures/632.png Graphic file (type png)
 <use figures/632.png>
 Package pdftex.def Info: figures/632.png  used on input line 560.
 (pdftex.def)             Requested size: 421.87938pt x 201.45418pt.
  [22 <./figures/632.png>]
-<figures/632_U-Regelung.pdf, id=402, 490.1241pt x 219.43883pt>
+<figures/632_U-Regelung.pdf, id=403, 490.1241pt x 219.43883pt>
 File: figures/632_U-Regelung.pdf Graphic file (type pdf)
 <use figures/632_U-Regelung.pdf>
 Package pdftex.def Info: figures/632_U-Regelung.pdf  used on input line 586.
 (pdftex.def)             Requested size: 448.13095pt x 200.64726pt.
 
 [23 <./figures/632_U-Regelung.pdf>]
-<figures/SM_Netzbetrieb_Uebersicht.pdf, id=418, 408.8484pt x 162.00864pt>
+<figures/SM_Netzbetrieb_Uebersicht.pdf, id=419, 408.8484pt x 162.00864pt>
 File: figures/SM_Netzbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Netzbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Netzbetrieb_Uebersicht.pdf  used on input l
 ine 647.
 (pdftex.def)             Requested size: 448.13095pt x 177.5747pt.
-<figures/SM_Synchronisation.pdf, id=419, 295.85532pt x 162.00864pt>
+<figures/SM_Synchronisation.pdf, id=420, 295.85532pt x 162.00864pt>
 File: figures/SM_Synchronisation.pdf Graphic file (type pdf)
 <use figures/SM_Synchronisation.pdf>
 Package pdftex.def Info: figures/SM_Synchronisation.pdf  used on input line 658
 .
 (pdftex.def)             Requested size: 268.8813pt x 147.24266pt.
  [24 <./figures/SM_Netzbetrieb_Uebersicht.pdf>]
-<figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf, id=427, 889.68384pt 
+<figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf, id=428, 889.68384pt 
 x 628.61853pt>
 File: figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf Graphic file (ty
 pe pdf)
@@ -1044,13 +1041,13 @@ pe pdf)
 Package pdftex.def Info: figures/641_Bild5_PhasenstromBeiSternpunktverbindung.p
 df  used on input line 670.
 (pdftex.def)             Requested size: 219.58662pt x 84.92519pt.
-<figures/641_Bild4_Nulleiterstrom.pdf, id=429, 844.83629pt x 597.432pt>
+<figures/641_Bild4_Nulleiterstrom.pdf, id=430, 844.83629pt x 597.432pt>
 File: figures/641_Bild4_Nulleiterstrom.pdf Graphic file (type pdf)
 <use figures/641_Bild4_Nulleiterstrom.pdf>
 Package pdftex.def Info: figures/641_Bild4_Nulleiterstrom.pdf  used on input li
 ne 677.
 (pdftex.def)             Requested size: 219.58662pt x 81.32936pt.
-<figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=431, 487.8747pt x 219.2963
+<figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=432, 487.8747pt x 219.2963
 pt>
 File: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf Graphic file (type pdf)
 <use figures/641_Bild2_LastabwurfKurzgeschlossen.pdf>
@@ -1063,7 +1060,7 @@ on input line 694.
 pdfTeX warning: pdflatex.exe (file ./figures/SM_Synchronisation.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >]
-<figures/641_Bild3_LastabwurfWiderstand.pdf, id=455, 490.89418pt x 212.75385pt>
+<figures/641_Bild3_LastabwurfWiderstand.pdf, id=456, 490.89418pt x 212.75385pt>
 
 File: figures/641_Bild3_LastabwurfWiderstand.pdf Graphic file (type pdf)
 <use figures/641_Bild3_LastabwurfWiderstand.pdf>
@@ -1071,9 +1068,17 @@ Package pdftex.def Info: figures/641_Bild3_LastabwurfWiderstand.pdf  used on in
 put line 703.
 (pdftex.def)             Requested size: 358.50612pt x 155.38042pt.
  [26 <./figures/641_Bild2_LastabwurfKurzgeschlossen.pdf> <./figures/641_Bild3_L
-astabwurfWiderstand.pdf>] [27]) [28] (Schlussteil.tex [29])
+astabwurfWiderstand.pdf>] [27]) [28] (Schlussteil.tex [29]
+Package tocbasic Info: character protrusion at lof deactivated on input line 18
+.
+ (main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [30]
+
+[30]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
@@ -1081,11 +1086,11 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 17273 strings out of 492969
- 320374 string characters out of 3127030
+ 17279 strings out of 492969
+ 320557 string characters out of 3127030
  592357 words of memory out of 3000000
- 20697 multiletter control sequences out of 15000+200000
- 15698 words of font info for 81 fonts, out of 3000000 for 9000
+ 20704 multiletter control sequences out of 15000+200000
+ 15289 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,75p,9112b,714s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
@@ -1107,9 +1112,9 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
 fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy6.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (30 pages, 1961583 bytes).
+Output written on main.pdf (30 pages, 1966315 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 98 named destinations out of 1000 (max. 500000)
- 20905 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 704 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 18865 words of extra memory for PDF output out of 20736 (max. 10000000)
 
