@@ -1,34 +1,26 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.2)  26 APR 2019 07:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.15)  26 APR 2019 08:16
 entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2018-04-01> patch level 5
-
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrartc
-l.cls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
 Document Class: scrartcl 2018/03/30 v3.25 KOMA-Script document class (article)
-
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkbas
-e.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
 Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbase
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
 Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfil
-e.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
 Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
 )))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\tocbasi
-c.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
 Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -39,13 +31,11 @@ Package tocbasic Info: omitting babel extension for `toc'
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2114.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrsize
-12pt.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize12pt.clo"
 File: scrsize12pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (12pt
 )
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\typeare
-a.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
 Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count80
@@ -99,71 +89,66 @@ Package tocbasic Info: omitting babel extension for `lot'
 Class scrartcl Info: Redefining `\numberline' on input line 5615.
 \bibindent=\dimen102
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-) ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
-"
-Package: babel 2018/11/13 3.27 The Babel package
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngerma
-n.ldf"
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\ngerman.ldf"
 Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
 phy)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngerma
-nb.ldf"
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\ngermanb.ldf"
 Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
 aphy)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/11/13 3.27 Babel common definitions
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/06/05 3.22 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.de
-f")
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
 \bbl@dirlevel=\count90
 )
 Package babel Info: Making " an active character on input line 121.
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engli
-sh.ldf"
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip57
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen104
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
-) ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
-y"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count91
@@ -204,10 +189,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty"
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
- ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count103
 \calc@Bcount=\count104
@@ -220,57 +205,49 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count105
 \calc@Cskip=\skip62
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty"
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
-cs.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
-.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen115
 \Gin@req@width=\dimen116
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\units.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\units\units.sty"
 Package: units 1998/08/04 v0.9b Typesetting units
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseDisplaystyle=\skip63
 \L@UnitsRaiseTextstyle=\skip64
 \L@UnitsRaiseScriptstyle=\skip65
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
-"
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.st
-y"
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen117
 \captionmargin@=\dimen118
@@ -281,35 +258,31 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@hangindent=\dimen123
 )
 Package caption Info: KOMA-Script document class.
-\c@caption@flags=\count106
-\c@ContinuedFloat=\count107
+\c@ContinuedFloat=\count106
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\apacite.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count108
+\c@BibCnt=\count107
 \bibleftmargin=\skip66
 \bibindent=\skip67
 \bibparsep=\skip68
 \bibitemsep=\skip69
 \biblabelsep=\skip70
-) ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty
-"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip71
 \bibsep=\skip72
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count109
+\c@NAT@ctr=\count108
 )
 LaTeX Info: Redefining \BBA on input line 31.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlaye
-r-scrpage.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlayer-scrpage.sty"
 Package: scrlayer-scrpage 2018/03/30 v3.25 KOMA-Script package (end user interf
 ace for scrlayer)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlaye
-r.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlayer.sty"
 Package: scrlayer 2018/03/30 v3.25 KOMA-Script package (defining layers and pag
 e styles)
 Package scrlayer Info: Using already defined \footheight
@@ -325,7 +298,7 @@ Package scrlayer-scrpage Info: deactivating warning for font element
 )
 Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen124
 \ar@mcellbox=\box30
@@ -335,20 +308,17 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \backup@length=\skip74
 \ar@cellbox=\box31
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.s
-ty"
-Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-h
-yperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-g
-eneric.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -358,11 +328,15 @@ Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -384,141 +358,126 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen126
-\Hy@linkcounter=\count110
-\Hy@pagecounter=\count111
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-"
-File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count112
+\Hy@SavedSpaceFactor=\count111
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
-fg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `draft' set `false' on input line 4409.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4409.
-Package hyperref Info: Hyper figures OFF on input line 4535.
-Package hyperref Info: Link nesting OFF on input line 4540.
-Package hyperref Info: Hyper index ON on input line 4543.
-Package hyperref Info: Plain pages OFF on input line 4550.
-Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Option `draft' set `false' on input line 4383.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count113
- ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count112
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5141.
+LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen127
-\Fld@menulength=\count114
+\Fld@menulength=\count113
 \Field@Width=\dimen128
 \Fld@charsize=\dimen129
-Package hyperref Info: Hyper figures OFF on input line 6396.
-Package hyperref Info: Link nesting OFF on input line 6401.
-Package hyperref Info: Hyper index ON on input line 6404.
-Package hyperref Info: backreferencing OFF on input line 6411.
-Package hyperref Info: Link coloring OFF on input line 6416.
-Package hyperref Info: Link coloring with OCG OFF on input line 6421.
-Package hyperref Info: PDF/A mode OFF on input line 6426.
-LaTeX Info: Redefining \ref on input line 6466.
-LaTeX Info: Redefining \pageref on input line 6470.
-\Hy@abspage=\count115
-\c@Item=\count116
-\c@Hfootnote=\count117
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
-f"
-File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
-\Fld@listcount=\count118
-\c@bookmark@seq@number=\count119
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
-heck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip75
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bookmark.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty"
 Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex
-.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def"
 File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
-\BKM@id=\count120
+\BKM@id=\count119
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype
-.sty"
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
 \MT@toks=\toks23
-\MT@count=\count121
-LaTeX Info: Redefining \textls on input line 793.
+\MT@count=\count120
+LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen130
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count122
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count121
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype
--pdftex.def"
-File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 913.
-LaTeX Info: Redefining \lslig on input line 913.
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip76
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\microtype
-.cfg"
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
 ))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
 Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count123
+\etb@tempcnta=\count122
 )
-\csq@reset=\count124
-\csq@gtype=\count125
-\csq@glevel=\count126
-\csq@qlevel=\count127
-\csq@maxlvl=\count128
-\csq@tshold=\count129
+\csq@reset=\count123
+\csq@gtype=\count124
+\csq@glevel=\count125
+\csq@qlevel=\count126
+\csq@maxlvl=\count127
+\csq@tshold=\count128
 \csq@ltx@everypar=\toks24
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.d
-ef"
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
 File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.c
-fg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg"
 File: csquotes.cfg 
 )
 Package csquotes Info: Option 'babel' depreciated.
@@ -526,8 +485,7 @@ Package csquotes Info: Option 'babel' depreciated.
 Package csquotes Info: Enabling multilingual quotes.
 Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen131
 \lightrulewidth=\dimen132
@@ -539,64 +497,58 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen138
 \cmidrulekern=\dimen139
 \defaultaddspace=\dimen140
-\@cmidla=\count130
-\@cmidlb=\count131
+\@cmidla=\count129
+\@cmidlb=\count130
 \@aboverulesep=\dimen141
 \@belowrulesep=\dimen142
-\@thisruleclass=\count132
-\@lastruleclass=\count133
+\@thisruleclass=\count131
+\@lastruleclass=\count132
 \@thisrulewidth=\dimen143
-) ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count134
+\c@float@type=\count133
 \float@exts=\toks25
 \float@box=\box32
 \@float@everytoks=\toks26
 \@floatcapt=\box33
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csvsimple\csvsimple
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\csvsimple\csvsimple.sty"
 Package: csvsimple 2016/07/01 version 1.20 LaTeX CSV file processing
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfke
-ys.sty"
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keys.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks27
 \pgfkeys@temptoks=\toks28
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgf
-keysfiltered.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
 \pgfkeys@tmptoks=\toks29
-)))
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 69.
 )
 \csv@file=\read1
-\c@csvinputline=\count135
-\c@csvrow=\count136
-\c@csvcol=\count137
+\c@csvinputline=\count134
+\c@csvrow=\count135
+\c@csvcol=\count136
 \csv@out=\write3
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
 Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
-\c@subfigure=\count138
-\c@subtable=\count139
+\c@subfigure=\count137
+\c@subtable=\count138
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
- ("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.
-cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -613,44 +565,41 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 \AM@pagewidth=\dimen144
 \AM@pageheight=\dimen145
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.d
-ef"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box34
 \AM@global@opts=\toks30
 \AM@toc@title=\toks31
-\c@AM@survey=\count140
+\c@AM@survey=\count139
 \AM@templatesizebox=\box35
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 \TX@col@width=\dimen146
 \TX@old@table=\dimen147
 \TX@old@col=\dimen148
 \TX@target=\dimen149
 \TX@delta=\dimen150
-\TX@cols=\count141
+\TX@cols=\count140
 \TX@ftn=\toks32
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
 Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
 \everycr=\toks33
 \minrowclearance=\skip77
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\newfloat.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\newfloat.sty"
 Package: newfloat 2018/03/04 v1.1a Defining new floating environments (AR)
 )
 Package newfloat Info: New float `equ' with options `' on input line 78.
-\c@equ=\count142
+\c@equ=\count141
 Package newfloat Info: float type `equ'=4 on input line 78.
 Package tocbasic Info: setting babel extension for `loequ' on input line 78.
-\c@subequ=\count143
+\c@subequ=\count142
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (main.aux)
@@ -671,27 +620,23 @@ LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
-i"
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count144
+\scratchcounter=\count143
 \scratchdimen=\dimen151
 \scratchbox=\box36
-\nofMPsegments=\count145
-\nofMParguments=\count146
+\nofMPsegments=\count144
+\nofMParguments=\count145
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count147
+\MPscratchCnt=\count146
 \MPscratchDim=\dimen152
-\MPnumerator=\count148
-\makeMPintoPDFobject=\count149
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
 \everyMPtoPDFconversion=\toks35
-)
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
-ase.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -705,10 +650,9 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@maskedRefs=\count150
+\c@maskedRefs=\count149
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\english.apc
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
@@ -716,15 +660,13 @@ LaTeX Info: Redefining \BHBI on input line 130.
 \AtBeginShipoutBox=\box37
 Package hyperref Info: Link coloring OFF on input line 89.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitle
-string.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count151
+\c@section@level=\count150
 )
 LaTeX Info: Redefining \ref on input line 89.
 LaTeX Info: Redefining \pageref on input line 89.
@@ -740,17 +682,14 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cf
-g"
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
@@ -770,32 +709,142 @@ Package gensymb Warning: Not defining \micro.
 Package scrkbase Info: You've told me to extend the font selection of the
 (scrkbase)             element `sectioning' that is an alias of element
 (scrkbase)             `disposition' on input line 93.
-(deckblatt.tex [1
+(deckblatt.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+ [1
 
-{C:/Users/Theo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (Einleitung
-.tex
+{C:/Users/Pescatore/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (Einle
+itung.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package tocbasic Info: character protrusion at toc deactivated on input line 4.
 
- (main.toc [2])
+ (main.toc
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 26.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 26.
+ [2])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
  [3]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 7.
+
 Underfull \hbox (badness 10000) in paragraph at lines 10--13
 
  []
 
-) [4] (Versuch.tex [5] [6]
+)
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 105.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 105.
+ [4] (Versuch.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 2.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 4.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 6.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 38.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 70.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 70.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+ [5]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 87.
+ [6]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 88.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 88.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 90.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 93.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 93.
 <figures/DSCN2903.jpg, id=105, 1110.0672pt x 832.5504pt>
 File: figures/DSCN2903.jpg Graphic file (type jpg)
 <use figures/DSCN2903.jpg>
 Package pdftex.def Info: figures/DSCN2903.jpg  used on input line 99.
 (pdftex.def)             Requested size: 448.13095pt x 158.05609pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 105.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 105.
  [7 <./figures/DSCN2903.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 109.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 109.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 112.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 112.
 <figures/leerlauf.png, id=116, 163.3603pt x 167.12437pt>
 File: figures/leerlauf.png Graphic file (type png)
 <use figures/leerlauf.png>
@@ -806,6 +855,14 @@ File: figures/leerlauf_schema.png Graphic file (type png)
 <use figures/leerlauf_schema.png>
 Package pdftex.def Info: figures/leerlauf_schema.png  used on input line 133.
 (pdftex.def)             Requested size: 384.84071pt x 129.6353pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 146.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 146.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 146.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 146.
  [8 <./figures/leerlauf.png> <./figures/leerlauf_schema.png>]
 <figures/versuch_Uph_I_err.pdf, id=131, 844.95674pt x 597.432pt>
 File: figures/versuch_Uph_I_err.pdf Graphic file (type pdf)
@@ -813,7 +870,19 @@ File: figures/versuch_Uph_I_err.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/versuch_Uph_I_err.pdf  used on input line 153.
 
 (pdftex.def)             Requested size: 358.50612pt x 253.48134pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 167.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 167.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 167.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 167.
  [9 <./figures/versuch_Uph_I_err.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 174.
 <figures/kurzschluss_schema.png, id=143, 671.50874pt x 231.11343pt>
 File: figures/kurzschluss_schema.png Graphic file (type png)
 <use figures/kurzschluss_schema.png>
@@ -831,9 +900,31 @@ File: figures/versuch_I_ph_I_err.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/versuch_I_ph_I_err.pdf  used on input line 205
 .
 (pdftex.def)             Requested size: 358.50612pt x 207.55591pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 209.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 209.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 209.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 209.
 
 [10 <./figures/kurzschluss_schema.png> <./figures/zps_kurzschluss.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 218.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 218.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 218.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 218.
+
 [11 <./figures/versuch_I_ph_I_err.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 219.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 219.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 219.
@@ -848,13 +939,24 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 238.
 
-("C:\Users\Theo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 238.
-
-[12]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 247.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 247.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 247.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 247.
+ [12]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 251.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 251.
 <figures/Schwebeverfahren.png, id=176, 825.0825pt x 306.39468pt>
 File: figures/Schwebeverfahren.png Graphic file (type png)
 <use figures/Schwebeverfahren.png>
@@ -862,14 +964,22 @@ Package pdftex.def Info: figures/Schwebeverfahren.png  used on input line 259.
 (pdftex.def)             Requested size: 371.28369pt x 137.87633pt.
 
 
-pdfTeX warning: pdflatex.exe (file ./figures/schwebeverfahren_U_1.pdf): PDF inc
-lusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./figures/schwebeverfahren_U_1.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
 <figures/schwebeverfahren_U_1.pdf, id=177, 614.295pt x 794.97pt>
 File: figures/schwebeverfahren_U_1.pdf Graphic file (type pdf)
 <use figures/schwebeverfahren_U_1.pdf>
 Package pdftex.def Info: figures/schwebeverfahren_U_1.pdf  used on input line 2
 71.
 (pdftex.def)             Requested size: 448.13095pt x 216.34828pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 277.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 277.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 277.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 277.
 [13 <./figures/Schwebeverfahren.png> <./figures/schwebeverfahren_U_1.pdf>]
 <figures/schwebeverfahren_I_ph.pdf, id=193, 500.19502pt x 271.0416pt>
 File: figures/schwebeverfahren_I_ph.pdf Graphic file (type pdf)
@@ -877,14 +987,43 @@ File: figures/schwebeverfahren_I_ph.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/schwebeverfahren_I_ph.pdf  used on input line 
 284.
 (pdftex.def)             Requested size: 358.50612pt x 194.26474pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 307.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 307.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 307.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 307.
 
-[14 <./figures/schwebeverfahren_I_ph.pdf>] [15]
+[14 <./figures/schwebeverfahren_I_ph.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 327.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 327.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 327.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 327.
+ [15]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 328.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 328.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 329.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 329.
 <figures/SM_Inselbetrieb_Uebersicht.pdf, id=214, 353.40028pt x 180.675pt>
 File: figures/SM_Inselbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Inselbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Inselbetrieb_Uebersicht.pdf  used on input 
 line 335.
 (pdftex.def)             Requested size: 358.50612pt x 183.29633pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 351.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 351.
 <figures/SM_Insel_1PH_R.pdf, id=215, 289.08pt x 107.4414pt>
 File: figures/SM_Insel_1PH_R.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_R.pdf>
@@ -896,25 +1035,40 @@ File: figures/631_zeiger_ohmsch.png Graphic file (type png)
 Package pdftex.def Info: figures/631_zeiger_ohmsch.png  used on input line 362.
 
 (pdftex.def)             Requested size: 71.69875pt x 122.66588pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 367.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 367.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 367.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 367.
  [16 <./figures/SM_Inselbetrieb_Uebersicht.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/SM_Inselbetrieb_Uebersicht.pdf): P
-DF inclusion: invalid other resource which is no dict (key 'ProcSets', type <ar
-ray>); ignored.
+pdfTeX warning: pdflatex (file ./figures/SM_Inselbetrieb_Uebersicht.pdf): PDF i
+nclusion: invalid other resource which is no dict (key 'ProcSets', type <array>
+); ignored.
 >]
 Package hyperref Info: bookmark level for unknown equ defaults to 0 on input li
 ne 400.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 413.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 413.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 413.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 413.
  [17 <./figures/SM_Insel_1PH_R.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_R.pdf): PDF inclusion
-: invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
-ed.
+pdfTeX warning: pdflatex (file ./figures/SM_Insel_1PH_R.pdf): PDF inclusion: in
+valid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 > <./figures/631_zeiger_ohmsch.png>]
 Package epstopdf Info: Source file: <figures/631_Ohmsch.eps>
-(epstopdf)                    date: 2019-04-14 08:51:22
-(epstopdf)                    size: 112106 bytes
+(epstopdf)                    date: 2019-04-14 14:44:10
+(epstopdf)                    size: 117224 bytes
 (epstopdf)             Output file: <figures/631_Ohmsch-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-14 08:53:14
+(epstopdf)                    date: 2019-04-14 14:44:10
 (epstopdf)                    size: 32621 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/631_Ohmsch-eps-conv
 erted-to.pdf figures/631_Ohmsch.eps>
@@ -922,14 +1076,18 @@ erted-to.pdf figures/631_Ohmsch.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex.exe (file ./figures/631_Ohmsch-eps-converted-to.pdf): 
-PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./figures/631_Ohmsch-eps-converted-to.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <figures/631_Ohmsch-eps-converted-to.pdf, id=281, 963.6pt x 466.74374pt>
 File: figures/631_Ohmsch-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Ohmsch-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Ohmsch-eps-converted-to.pdf  used on input
  line 431.
 (pdftex.def)             Requested size: 448.13095pt x 217.06207pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 449.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 449.
 <figures/SM_Insel_1PH_C.pdf, id=282, 409.53pt x 105.2733pt>
 File: figures/SM_Insel_1PH_C.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_C.pdf>
@@ -940,13 +1098,21 @@ File: figures/631_zeiger_kap.png Graphic file (type png)
 <use figures/631_zeiger_kap.png>
 Package pdftex.def Info: figures/631_zeiger_kap.png  used on input line 460.
 (pdftex.def)             Requested size: 40.3326pt x 117.49947pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 465.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 465.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 465.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 465.
 [18 <./figures/631_Ohmsch-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/631_Kapazitiv.eps>
-(epstopdf)                    date: 2019-04-14 08:51:47
-(epstopdf)                    size: 112450 bytes
+(epstopdf)                    date: 2019-04-14 14:44:10
+(epstopdf)                    size: 117568 bytes
 (epstopdf)             Output file: <figures/631_Kapazitiv-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2019-04-14 08:53:15
+(epstopdf)                    date: 2019-04-14 14:44:10
 (epstopdf)                    size: 32418 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/631_Kapazitiv-eps-c
 onverted-to.pdf figures/631_Kapazitiv.eps>
@@ -954,21 +1120,32 @@ onverted-to.pdf figures/631_Kapazitiv.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex.exe (file ./figures/631_Kapazitiv-eps-converted-to.pdf
-): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./figures/631_Kapazitiv-eps-converted-to.pdf): P
+DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <figures/631_Kapazitiv-eps-converted-to.pdf, id=299, 963.6pt x 466.74374pt>
 File: figures/631_Kapazitiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Kapazitiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/631_Kapazitiv-eps-converted-to.pdf  used on in
 put line 481.
 (pdftex.def)             Requested size: 403.31511pt x 195.35445pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 496.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 496.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 496.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 496.
 [19 <./figures/SM_Insel_1PH_C.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_C.pdf): PDF inclusion
-: invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
-ed.
+pdfTeX warning: pdflatex (file ./figures/SM_Insel_1PH_C.pdf): PDF inclusion: in
+valid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 > <./figures/631_zeiger_kap.png> <./figures/631_Kapazitiv-eps-converted-to.pdf>
 ]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 501.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 501.
 <figures/SM_Insel_1PH_L.pdf, id=341, 402.54388pt x 105.2733pt>
 File: figures/SM_Insel_1PH_L.pdf Graphic file (type pdf)
 <use figures/SM_Insel_1PH_L.pdf>
@@ -980,11 +1157,11 @@ File: figures/631_zeiger_ind.png Graphic file (type png)
 Package pdftex.def Info: figures/631_zeiger_ind.png  used on input line 512.
 (pdftex.def)             Requested size: 67.22032pt x 123.7431pt.
 Package epstopdf Info: Source file: <figures/631_Induktiv.eps>
-(epstopdf)                    date: 2019-04-14 08:47:51
-(epstopdf)                    size: 112381 bytes
+(epstopdf)                    date: 2019-04-14 14:44:10
+(epstopdf)                    size: 117499 bytes
 (epstopdf)             Output file: <figures/631_Induktiv-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2019-04-14 08:48:50
+(epstopdf)                    date: 2019-04-14 14:44:10
 (epstopdf)                    size: 31932 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/631_Induktiv-eps-co
 nverted-to.pdf figures/631_Induktiv.eps>
@@ -992,8 +1169,8 @@ nverted-to.pdf figures/631_Induktiv.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex.exe (file ./figures/631_Induktiv-eps-converted-to.pdf)
-: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./figures/631_Induktiv-eps-converted-to.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <figures/631_Induktiv-eps-converted-to.pdf, id=343, 963.6pt x 466.74374pt>
 File: figures/631_Induktiv-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/631_Induktiv-eps-converted-to.pdf>
@@ -1007,39 +1184,102 @@ File: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf  used on 
 input line 545.
 (pdftex.def)             Requested size: 448.13095pt x 162.75699pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 549.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 549.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 549.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 549.
 [20 <./figures/SM_Insel_1PH_L.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/SM_Insel_1PH_L.pdf): PDF inclusion
-: invalid other resource which is no dict (key 'ProcSets', type <array>); ignor
-ed.
+pdfTeX warning: pdflatex (file ./figures/SM_Insel_1PH_L.pdf): PDF inclusion: in
+valid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 > <./figures/631_zeiger_ind.png> <./figures/631_Induktiv-eps-converted-to.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 554.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 554.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 554.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 554.
 [21 <./figures/631_Bild7_Sternpunkt_MitOhneVerb.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 555.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 555.
 <figures/632.png, id=400, 703.12688pt x 335.75438pt>
 File: figures/632.png Graphic file (type png)
 <use figures/632.png>
 Package pdftex.def Info: figures/632.png  used on input line 567.
 (pdftex.def)             Requested size: 421.87938pt x 201.45418pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 574.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 574.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 580.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 580.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 580.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 580.
  [22 <./figures/632.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 583.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 583.
 <figures/632_U-Regelung.pdf, id=407, 490.1241pt x 219.43883pt>
 File: figures/632_U-Regelung.pdf Graphic file (type pdf)
 <use figures/632_U-Regelung.pdf>
 Package pdftex.def Info: figures/632_U-Regelung.pdf  used on input line 593.
 (pdftex.def)             Requested size: 448.13095pt x 200.64726pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 647.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 647.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 647.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 647.
 
 [23 <./figures/632_U-Regelung.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 649.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 649.
 <figures/SM_Netzbetrieb_Uebersicht.pdf, id=423, 408.8484pt x 162.00864pt>
 File: figures/SM_Netzbetrieb_Uebersicht.pdf Graphic file (type pdf)
 <use figures/SM_Netzbetrieb_Uebersicht.pdf>
 Package pdftex.def Info: figures/SM_Netzbetrieb_Uebersicht.pdf  used on input l
 ine 654.
 (pdftex.def)             Requested size: 448.13095pt x 177.5747pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 660.
 <figures/SM_Synchronisation.pdf, id=424, 295.85532pt x 162.00864pt>
 File: figures/SM_Synchronisation.pdf Graphic file (type pdf)
 <use figures/SM_Synchronisation.pdf>
 Package pdftex.def Info: figures/SM_Synchronisation.pdf  used on input line 665
 .
 (pdftex.def)             Requested size: 268.8813pt x 147.24266pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 669.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 669.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 669.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 669.
  [24 <./figures/SM_Netzbetrieb_Uebersicht.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 669.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 669.
 <figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf, id=432, 889.68384pt 
 x 628.61853pt>
 File: figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf Graphic file (ty
@@ -1054,6 +1294,10 @@ File: figures/641_Bild4_Nulleiterstrom.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/641_Bild4_Nulleiterstrom.pdf  used on input li
 ne 684.
 (pdftex.def)             Requested size: 219.58662pt x 81.32936pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 695.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 695.
 <figures/641_Bild2_LastabwurfKurzgeschlossen.pdf, id=436, 487.8747pt x 219.2963
 pt>
 File: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf Graphic file (type pdf)
@@ -1061,11 +1305,19 @@ File: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/641_Bild2_LastabwurfKurzgeschlossen.pdf  used 
 on input line 701.
 (pdftex.def)             Requested size: 358.50612pt x 161.15573pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 704.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 704.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 704.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 704.
  [25 <./figures/641_Bild5_PhasenstromBeiSternpunktverbindung.pdf> <./figures/64
 1_Bild4_Nulleiterstrom.pdf> <./figures/SM_Synchronisation.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/SM_Synchronisation.pdf): PDF inclu
-sion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./figures/SM_Synchronisation.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
 >]
 <figures/641_Bild3_LastabwurfWiderstand.pdf, id=460, 490.89418pt x 212.75385pt>
 
@@ -1074,52 +1326,128 @@ File: figures/641_Bild3_LastabwurfWiderstand.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/641_Bild3_LastabwurfWiderstand.pdf  used on in
 put line 710.
 (pdftex.def)             Requested size: 358.50612pt x 155.38042pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 716.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 716.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 716.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 716.
  [26 <./figures/641_Bild2_LastabwurfKurzgeschlossen.pdf> <./figures/641_Bild3_L
-astabwurfWiderstand.pdf>] [27]) [28] (Schlussteil.tex [29]
+astabwurfWiderstand.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 717.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 717.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 742.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 742.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 742.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 742.
+ [27]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 743.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 743.
+)
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 107.
+ [28] (Schlussteil.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 10.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 10.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 15.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 15.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 18.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 18.
+ [29]
 Package tocbasic Info: character protrusion at lof deactivated on input line 18
 .
  (main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 20.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 113.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 113.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 113.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 113.
 
 [30]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 17286 strings out of 492969
- 320710 string characters out of 3127030
- 592357 words of memory out of 3000000
- 20709 multiletter control sequences out of 15000+200000
+ 17249 strings out of 492973
+ 315671 string characters out of 3135920
+ 591066 words of memory out of 3000000
+ 20669 multiletter control sequences out of 15000+200000
  15289 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,20n,75p,9112b,714s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Theo/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Theo/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Theo/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Us
-ers/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Theo/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Theo/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Theo/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users
-/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy6.pfb><C:/Users/Theo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (30 pages, 9079296 bytes).
+ 60i,20n,75p,9112b,704s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb>
+Output written on main.pdf (30 pages, 9080538 bytes).
 PDF statistics:
  709 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)
