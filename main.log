@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.15)  26 APR 2019 09:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.15)  26 APR 2019 09:25
 entering extended mode
 **./main.tex
 (main.tex
@@ -1368,6 +1368,21 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 763.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 763.
+<figures/blind_unter.png, id=498, 291.33844pt x 280.79906pt>
+File: figures/blind_unter.png Graphic file (type png)
+<use figures/blind_unter.png>
+Package pdftex.def Info: figures/blind_unter.png  used on input line 793.
+(pdftex.def)             Requested size: 107.55292pt x 103.66264pt.
+<figures/blind_nenn.png, id=499, 231.86626pt x 403.5075pt>
+File: figures/blind_nenn.png Graphic file (type png)
+<use figures/blind_nenn.png>
+Package pdftex.def Info: figures/blind_nenn.png  used on input line 798.
+(pdftex.def)             Requested size: 80.66519pt x 140.38007pt.
+<figures/blind_ueber.png, id=500, 223.58531pt x 517.18219pt>
+File: figures/blind_ueber.png Graphic file (type png)
+<use figures/blind_ueber.png>
+Package pdftex.def Info: figures/blind_ueber.png  used on input line 803.
+(pdftex.def)             Requested size: 80.66519pt x 186.5879pt.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 107.
@@ -1377,7 +1392,8 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 107.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 107.
- [28] (Schlussteil.tex
+ [28 <./figures/blind_unter.png> <./figures/blind_nenn.png> <./figures/blind_ue
+ber.png>] (Schlussteil.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1429,16 +1445,17 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 113.
  [30]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
- (main.aux)
+
+(main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 17265 strings out of 492973
- 315991 string characters out of 3135920
+ 17281 strings out of 492973
+ 316381 string characters out of 3135920
  591066 words of memory out of 3000000
- 20681 multiletter control sequences out of 15000+200000
+ 20693 multiletter control sequences out of 15000+200000
  15289 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,75p,9112b,704s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1457,9 +1474,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX
 ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb>
-Output written on main.pdf (30 pages, 9098427 bytes).
+Output written on main.pdf (30 pages, 9121820 bytes).
 PDF statistics:
- 716 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 18891 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 723 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
+ 18906 words of extra memory for PDF output out of 20736 (max. 10000000)
 
